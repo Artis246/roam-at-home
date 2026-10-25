@@ -40,3 +40,19 @@ html,body{touch-action:manipulation;overscroll-behavior:none}
 #walk-bar button{min-height:40px;font-size:14px;padding:6px 12px}
 }
 @media(max-width:700px){#walk-heading{display:none}}
+/* Art 2026-10-25: "The boxes are unnecessary, and the arrows should be opaque" - arrows only, solid, no boxes */
+#walk-pad{filter:none;opacity:1}
+#walk-pad button,#walk-pad button:active{background:transparent!important;border:0!important;box-shadow:none!important;backdrop-filter:none!important;-webkit-backdrop-filter:none!important;color:#fff;opacity:1;text-shadow:0 0 3px #000,0 1px 6px #000c;font-weight:700}
+#walk-pad button:active{transform:scale(.88);color:#b7f0d6}
+#walk-pad .pad-center{display:none}
+#walk-bar button{background:transparent!important;border:0!important;box-shadow:none!important;color:#fff!important;text-shadow:0 0 3px #000,0 1px 6px #000c;font-weight:600}
+@media(max-width:700px){#walk-mini{display:none}#walk-pad button{font-size:30px}}
+/* If the phone's browser is zoomed in (Safari page zoom), shrink the walk controls back to normal size */
+#walk-pad,#walk-bar,#walk-notice{zoom:var(--ui,1)}
+/* Art: "the map should be much smaller and ... semi opaque" */
+#walk-mini{display:block!important;width:120px;height:90px;opacity:.6;border:0;box-shadow:none;zoom:var(--ui,1)}
+@media(max-width:700px){#walk-mini{width:70px;height:52px;right:10px;bottom:calc(36px + env(safe-area-inset-bottom));border-radius:10px}}
+#walk-mini .mini-label{display:none}
+#walk-pad button{font-size:36px!important;outline:none}
+#walk-pad button:focus-visible{outline:2px solid #fff;outline-offset:-6px;border-radius:50%}
+#walk-bar button{font-size:16px!important;outline:none}

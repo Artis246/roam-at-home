@@ -230,3 +230,7 @@ async function json(url){const r=await fetch(url);if(!r.ok)throw Error('City dat
 })();
 // Phone fix: stop Safari pinch/double-tap from zooming the whole page (it hid the street behind giant buttons)
 ["gesturestart","gesturechange"].forEach(t=>document.addEventListener(t,e=>e.preventDefault(),{passive:false}));
+
+// Browser page zoom (e.g. Safari aA 200%) made controls cover the street on Art's iPhone: undo it for our controls only
+function fitControls(){try{const sw=innerWidth>innerHeight?Math.max(screen.width,screen.height):Math.min(screen.width,screen.height);const r=sw/innerWidth;document.documentElement.style.setProperty('--ui',r>1.1?String(Math.max(.4,1/r)):'1');}catch{}}
+fitControls();addEventListener('resize',fitControls);addEventListener('orientationchange',fitControls);
