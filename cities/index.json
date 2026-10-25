@@ -1,0 +1,10 @@
+{
+  "default": "nashville",
+  "cities": [
+    {
+      "id": "nashville",
+      "name": "Nashville",
+      "path": "nashville/city.json"
+    }
+  ]
+}

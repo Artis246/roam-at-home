@@ -1,0 +1,167 @@
+{
+  "id": "downtown",
+  "name": "Downtown Nashville",
+  "coordinateNote": "Approximate exterior camera positions; panorama availability and sightlines require checking.",
+  "stops": [
+    {
+      "id": "welcome",
+      "name": "Welcome",
+      "lat": null,
+      "lon": null,
+      "heading": null,
+      "line": "Welcome to Roam at Home! Settle in and ride along through downtown Nashville. I'll share the stories; you enjoy the view. Let's start our visit.",
+      "sources": [
+        "Original welcome; product name supplied in your brief."
+      ]
+    },
+    {
+      "id": "01",
+      "name": "Fort Nashborough",
+      "lat": 36.16412,
+      "lon": -86.7756,
+      "heading": 45,
+      "line": "Let's start with those log buildings at Fort Nashborough. They look back to early Nashville, but here's the useful surprise: this is a reconstruction, and the present history center opened in 2017. So we're looking at a place built to help us picture the past, rather than cabins that somehow dodged every century since. Give those timber walls a moment. We'll follow the riverfront south now, with Riverfront Park just ahead.",
+      "sources": [
+        "https://www.tclf.org/fort-nashborough",
+        "https://encoreinterpretive.net/fort-nashborough",
+        "https://www.openstreetmap.org/?mlat=36.16412&mlon=-86.77560#map=19/36.16412/-86.77560"
+      ]
+    },
+    {
+      "id": "02",
+      "name": "Riverfront Park",
+      "lat": 36.16248,
+      "lon": -86.77446,
+      "heading": 45,
+      "line": "Here's Riverfront Park, with the Cumberland beside it. Before this became a place to pause, Nashville's riverfront was a busy center of trade, with steamboats helping move goods through the city. The park took shape in the early 1980s, giving this working waterfront a new role as public space. Picture the river as the delivery route; the packages just needed much bigger boats. Up ahead, we'll turn onto Broadway and visit the Ernest Tubb Record Shop exterior.",
+      "sources": [
+        "https://nashvilledowntown.com/parks-concept/riverfront-park/history",
+        "https://www.openstreetmap.org/?mlat=36.16248&mlon=-86.77446#map=19/36.16248/-86.77446"
+      ]
+    },
+    {
+      "id": "03",
+      "name": "Ernest Tubb Record Shop exterior",
+      "lat": 36.16084,
+      "lon": -86.77786,
+      "heading": 135,
+      "line": "Facing the Ernest Tubb Record Shop, think about trying to find a favorite song before you could tap a screen. Helping country fans find records was the idea behind this business, which began as a mail-order service. Its Broadway location opened in 1951. I like that starting point: somebody wanted music, and somebody else figured out how to get it to them. We'll keep our visit outside, then look across Broadway toward Tootsie's Orchid Lounge.",
+      "sources": [
+        "https://nashvillesites.org/records/ernest-tubb-record-shop",
+        "https://tile.loc.gov/storage-services/master/pnp/habshaer/tn/tn0400/tn0432/data/tn0432data.pdf",
+        "https://www.openstreetmap.org/?mlat=36.16084&mlon=-86.77786#map=19/36.16084/-86.77786"
+      ]
+    },
+    {
+      "id": "04",
+      "name": "Tootsie’s Orchid Lounge exterior",
+      "lat": 36.16047,
+      "lon": -86.77813,
+      "heading": 315,
+      "line": "That purple front belongs to Tootsie's Orchid Lounge. Here's a little movie connection: part of Coal Miner's Daughter, the film about Loretta Lynn, was filmed inside. So this place has played a part in telling country music's story on screen, too. We're staying outside today, which gives us a nice moment to take in the color. Subtle decorating clearly wasn't the assignment. Next, we'll continue along Broadway to the National Museum of African American Music.",
+      "sources": [
+        "https://nashvillesites.org/records/tootsies-orchid-lounge",
+        "https://www.tootsies.net/",
+        "https://www.openstreetmap.org/?mlat=36.16047&mlon=-86.77813#map=19/36.16047/-86.77813"
+      ]
+    },
+    {
+      "id": "05",
+      "name": "National Museum of African American Music",
+      "lat": 36.16005,
+      "lon": -86.77909,
+      "heading": 315,
+      "line": "Here we're facing the National Museum of African American Music. One idea to carry away: the museum explores more than fifty genres and subgenres that African American culture helped create, inspire, or influence. Think gospel, blues, jazz, and hip-hop, with musical connections running between them. That's a lot of different listening moods under one roof. Let this stop widen the soundtrack in your head. Next, we'll head up Rep. John Lewis Way to the Ryman Auditorium.",
+      "sources": [
+        "https://www.nmaam.org/about/",
+        "https://www.openstreetmap.org/?mlat=36.16005&mlon=-86.77909#map=19/36.16005/-86.77909"
+      ]
+    },
+    {
+      "id": "06",
+      "name": "Ryman Auditorium",
+      "lat": 36.16115,
+      "lon": -86.77899,
+      "heading": 45,
+      "line": "Here's the Ryman Auditorium. It opened in 1892 as a church, and from 1943 to 1974 it was home to the Grand Ole Opry -\nthat's why music fans still call it the Mother Church of Country Music. Opry star Minnie Pearl walked out on this stage\nin a straw hat with the price tag still hanging off it: a dollar ninety-eight. It started as an accident. The price never changed.",
+      "sources": [
+        "https://www.opry.com/story/how-the-grand-ole-opry-found-itself-at-ryman-auditorium/",
+        "https://tennesseeencyclopedia.net/?p=1543",
+        "https://en.wikipedia.org/wiki/Minnie_Pearl",
+        "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/pearl-minnie",
+        "https://www.smithsonianmag.com/arts-culture/how-deeeee-77975088/"
+      ]
+    },
+    {
+      "id": "07",
+      "name": "Bridgestone Arena",
+      "lat": 36.16037,
+      "lon": -86.77872,
+      "heading": 225,
+      "line": "Here's Bridgestone Arena. Its opening concert was Amy Grant's Tennessee Christmas show on December eighteenth, 1996. I like that detail: a building this big began its concert story with a Christmas gathering. Picture the anticipation outside before that first show, with everybody getting their first look. You don't need a ticket for the view we're enjoying together. Next, we'll follow Rep. John Lewis Way south toward Music City Walk of Fame Park.",
+      "sources": [
+        "https://www.visitmusiccity.com/media/press-release/2025/bridgestone-arena-to-celebrate-30-years-2026",
+        "https://www.openstreetmap.org/?mlat=36.16037&mlon=-86.77872#map=19/36.16037/-86.77872"
+      ]
+    },
+    {
+      "id": "08",
+      "name": "Music City Walk of Fame Park",
+      "lat": 36.15874,
+      "lon": -86.77715,
+      "heading": 45,
+      "line": "At Music City Walk of Fame Park, we've got a familiar name to come back to: Tootsie Bess, the woman behind the purple lounge we just visited. She has a star here. That's a lovely reminder to think about the people who helped music happen, as well as the people at the microphone. Let your eyes wander across the park; no need to race through the names. Next, we'll face the Country Music Hall of Fame and Museum.",
+      "sources": [
+        "https://www.visitmusiccity.com/walk-of-fame/stars/tootsie-bess",
+        "https://www.openstreetmap.org/?mlat=36.15874&mlon=-86.77715#map=19/36.15874/-86.77715"
+      ]
+    },
+    {
+      "id": "09",
+      "name": "Country Music Hall of Fame and Museum",
+      "lat": 36.15881,
+      "lon": -86.77651,
+      "heading": 135,
+      "line": "Look at the front of the Country Music Hall of Fame and Museum, especially the tall, dark windows. They're designed to suggest the black keys of a piano. Once you spot that, the building almost starts playing along in your head. Don't worry, there's no piano lesson at the end of our visit. Just let your eyes follow that pattern for a moment. Up ahead along Demonbreun Street, we'll find another musical building: the Schermerhorn Symphony Center.",
+      "sources": [
+        "https://countrymusichalloffame.org/about/architecture",
+        "https://www.openstreetmap.org/?mlat=36.15881&mlon=-86.77651#map=19/36.15881/-86.77651"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Schermerhorn Symphony Center",
+      "lat": 36.15925,
+      "lon": -86.77537,
+      "heading": 315,
+      "line": "Here's the Schermerhorn Symphony Center, and its best surprise is tucked inside. Rows of seats on the main concert hall's orchestra level can be lowered into storage below the floor, making room for a ballroom. That's quite a furniture rearrangement. Imagine trying the same trick with your sofa before company arrives. We can't see the mechanism from here, but it's a fun thought while we face the building. Next, we'll head toward the pedestrian bridge's Third Avenue approach.",
+      "sources": [
+        "https://www.nashvillesymphony.org/about/schermerhorn-symphony-center/",
+        "https://www.openstreetmap.org/?mlat=36.15925&mlon=-86.77537#map=19/36.15925/-86.77537"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "John Seigenthaler Pedestrian Bridge",
+      "lat": 36.16049,
+      "lon": -86.77532,
+      "heading": 45,
+      "line": "We've reached the western approach to the John Seigenthaler Pedestrian Bridge. This crossing once carried road traffic; in 2003, it reopened for pedestrians after being saved from demolition. I like a place that gets a second chapter. From here, let your eyes follow the bridge toward the river and imagine trading the rush of traffic for a slower crossing. We'll let this final view linger a little before we say goodbye.",
+      "sources": [
+        "https://www.tclf.org/john-seigenthaler-pedestrian-bridge",
+        "https://www.openstreetmap.org/?mlat=36.16049&mlon=-86.77532#map=19/36.16049/-86.77532"
+      ]
+    },
+    {
+      "id": "goodbye",
+      "name": "Goodbye",
+      "lat": null,
+      "lon": null,
+      "heading": null,
+      "line": "Thanks for riding along through Nashville with Roam at Home. Keep a favorite view in mind, and remember: it's all free - come back any time.",
+      "sources": [
+        "Free-service claim supplied by your brief; no verified public Roam at Home URL found."
+      ]
+    }
+  ]
+}

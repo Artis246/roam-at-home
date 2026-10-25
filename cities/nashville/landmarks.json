@@ -1,0 +1,490 @@
+[
+  {
+    "label": "12 South",
+    "kind": "neighborhood",
+    "latitude": "36.12525",
+    "longitude": "-86.78939",
+    "importance": "1",
+    "source URL": "[Map](https://sunrise.maplogs.com/12_south_nashville_tn_usa.414137.html)"
+  },
+  {
+    "label": "8th Ave Reservoir",
+    "kind": "water",
+    "latitude": "36.13900",
+    "longitude": "-86.78030",
+    "importance": "3",
+    "source URL": "[Location](https://en.wikipedia.org/wiki/Eighth_Avenue_South_Reservoir)"
+  },
+  {
+    "label": "Adventure Science Center",
+    "kind": "landmark",
+    "latitude": "36.14647",
+    "longitude": "-86.77548",
+    "importance": "2",
+    "source URL": "[Map](https://mapcarta.com/W130914053)"
+  },
+  {
+    "label": "Ascend Amphitheater",
+    "kind": "venue",
+    "latitude": "36.15990",
+    "longitude": "-86.77181",
+    "importance": "2",
+    "source URL": "[Map](https://mapcarta.com/W591997424)"
+  },
+  {
+    "label": "Batman Building",
+    "kind": "landmark",
+    "latitude": "36.16209",
+    "longitude": "-86.77710",
+    "importance": "1",
+    "source URL": "[Map](https://mapcarta.com/W130910785)"
+  },
+  {
+    "label": "Belcourt",
+    "kind": "venue",
+    "latitude": "36.13692",
+    "longitude": "-86.80143",
+    "importance": "3",
+    "source URL": "[Map](https://mapcarta.com/W544397696)"
+  },
+  {
+    "label": "Belmont",
+    "kind": "landmark",
+    "latitude": "36.13277",
+    "longitude": "-86.79260",
+    "importance": "2",
+    "source URL": "[Map](https://mapcarta.com/21556578)"
+  },
+  {
+    "label": "Belmont Mansion",
+    "kind": "landmark",
+    "latitude": "36.13560",
+    "longitude": "-86.79477",
+    "importance": "3",
+    "source URL": "[Map](https://mapcarta.com/21556586)"
+  },
+  {
+    "label": "Bicentennial Mall",
+    "kind": "park",
+    "latitude": "36.17169",
+    "longitude": "-86.78792",
+    "importance": "2",
+    "source URL": "[Map](https://mapcarta.com/21558004)"
+  },
+  {
+    "label": "Bridgestone Arena",
+    "kind": "venue",
+    "latitude": "36.15921",
+    "longitude": "-86.77844",
+    "importance": "1",
+    "source URL": "[Map](https://mapcarta.com/W130905914)"
+  },
+  {
+    "label": "Broadway",
+    "kind": "street",
+    "latitude": "36.16048",
+    "longitude": "-86.77842",
+    "importance": "1",
+    "source URL": "[Metro plan](https://www.nashville.gov/sites/default/files/2025-10/DowntownCode-SouthOfBroadwayMasterPlanFinal.pdf)"
+  },
+  {
+    "label": "Centennial Park",
+    "kind": "park",
+    "latitude": "36.14985",
+    "longitude": "-86.81322",
+    "importance": "2",
+    "source URL": "[Map](https://mapcarta.com/21570360)"
+  },
+  {
+    "label": "Church St",
+    "kind": "street",
+    "latitude": "36.15883",
+    "longitude": "-86.78991",
+    "importance": "3",
+    "source URL": "[TDOT inventory](https://www.tn.gov/content/dam/tn/tdot/structures/inventory-and-appraisal/DAVIDSON_OFFSYSTEM.pdf#page=22)"
+  },
+  {
+    "label": "Country Music HOF",
+    "kind": "landmark",
+    "latitude": "36.15819",
+    "longitude": "-86.77610",
+    "importance": "2",
+    "source URL": "[Map](https://mapcarta.com/W130905919)"
+  },
+  {
+    "label": "Cumberland River",
+    "kind": "water",
+    "latitude": "36.16150",
+    "longitude": "-86.77268",
+    "importance": "1",
+    "source URL": "[USGS location](https://waterdata.usgs.gov/monitoring-location/USGS-03431500/)"
+  },
+  {
+    "label": "Demonbreun St",
+    "kind": "street",
+    "latitude": "36.15488",
+    "longitude": "-86.78552",
+    "importance": "2",
+    "source URL": "[TDOT inventory](https://www.tn.gov/content/dam/tn/tdot/structures/inventory-and-appraisal/DAVIDSON_OFFSYSTEM.pdf#page=123)"
+  },
+  {
+    "label": "Division St",
+    "kind": "street",
+    "latitude": "36.14988",
+    "longitude": "-86.77677",
+    "importance": "3",
+    "source URL": "[TDOT inventory](https://www.tn.gov/content/dam/tn/tdot/structures/inventory-and-appraisal/DAVIDSON_OFFSYSTEM.pdf#page=370)"
+  },
+  {
+    "label": "Downtown",
+    "kind": "neighborhood",
+    "latitude": "36.16227",
+    "longitude": "-86.77945",
+    "importance": "1",
+    "source URL": "[Map](https://mapcarta.com/N10239592853)"
+  },
+  {
+    "label": "Dragon Park",
+    "kind": "park",
+    "latitude": "36.13680",
+    "longitude": "-86.80665",
+    "importance": "3",
+    "source URL": "[Map](https://mapcarta.com/29580658)"
+  },
+  {
+    "label": "East High",
+    "kind": "landmark",
+    "latitude": "36.17990",
+    "longitude": "-86.75110",
+    "importance": "3",
+    "source URL": "[Location](https://en.wikipedia.org/wiki/East_Nashville_Magnet_High_School)"
+  },
+  {
+    "label": "East Nashville",
+    "kind": "neighborhood",
+    "latitude": "36.17256",
+    "longitude": "-86.75972",
+    "importance": "1",
+    "source URL": "[Map](https://mapcarta.com/21585888)"
+  },
+  {
+    "label": "East Park",
+    "kind": "park",
+    "latitude": "36.17288",
+    "longitude": "-86.76043",
+    "importance": "2",
+    "source URL": "[Map](https://mapcarta.com/W471109533)"
+  },
+  {
+    "label": "Farmers' Market",
+    "kind": "landmark",
+    "latitude": "36.17024",
+    "longitude": "-86.78868",
+    "importance": "2",
+    "source URL": "[Map](https://mapcarta.com/W130913035)"
+  },
+  {
+    "label": "Fifth + Broadway",
+    "kind": "landmark",
+    "latitude": "36.16069",
+    "longitude": "-86.77923",
+    "importance": "3",
+    "source URL": "[Map](https://mapcarta.com/W828131424)"
+  },
+  {
+    "label": "First Horizon Park",
+    "kind": "venue",
+    "latitude": "36.17252",
+    "longitude": "-86.78462",
+    "importance": "2",
+    "source URL": "[Map](https://mapcarta.com/34443612)"
+  },
+  {
+    "label": "Five Points",
+    "kind": "neighborhood",
+    "latitude": "36.17747",
+    "longitude": "-86.74994",
+    "importance": "2",
+    "source URL": "[Nashville Sites](https://nashvillesites.org/records/five-points)"
+  },
+  {
+    "label": "Fort Nashborough",
+    "kind": "landmark",
+    "latitude": "36.16419",
+    "longitude": "-86.77536",
+    "importance": "3",
+    "source URL": "[Map](https://mapcarta.com/W130910783)"
+  },
+  {
+    "label": "Fort Negley",
+    "kind": "landmark",
+    "latitude": "36.14502",
+    "longitude": "-86.77463",
+    "importance": "3",
+    "source URL": "[Map](https://mapcarta.com/W130914045)"
+  },
+  {
+    "label": "Frist Museum",
+    "kind": "landmark",
+    "latitude": "36.15762",
+    "longitude": "-86.78364",
+    "importance": "2",
+    "source URL": "[Map](https://mapcarta.com/W130905893)"
+  },
+  {
+    "label": "Germantown",
+    "kind": "neighborhood",
+    "latitude": "36.17763",
+    "longitude": "-86.78937",
+    "importance": "1",
+    "source URL": "[Map](https://mapcarta.com/W684389959)"
+  },
+  {
+    "label": "Ghost Ballet",
+    "kind": "landmark",
+    "latitude": "36.16315",
+    "longitude": "-86.77219",
+    "importance": "3",
+    "source URL": "[Map](https://mapcarta.com/N4604112678)"
+  },
+  {
+    "label": "Jefferson St",
+    "kind": "street",
+    "latitude": "36.17513",
+    "longitude": "-86.78365",
+    "importance": "2",
+    "source URL": "[TDOT inventory](https://www.tn.gov/content/dam/tn/tdot/structures/inventory-and-appraisal/DAVIDSON_OFFSYSTEM.pdf#page=33)"
+  },
+  {
+    "label": "Marathon Music Works",
+    "kind": "venue",
+    "latitude": "36.16412",
+    "longitude": "-86.79737",
+    "importance": "3",
+    "source URL": "[Map](https://mapcarta.com/W964506061)"
+  },
+  {
+    "label": "Midtown",
+    "kind": "neighborhood",
+    "latitude": "36.14900",
+    "longitude": "-86.80240",
+    "importance": "2",
+    "source URL": "[Neighborhood map](https://www.herenashville.com/midtown/)"
+  },
+  {
+    "label": "Music City Center",
+    "kind": "landmark",
+    "latitude": "36.15684",
+    "longitude": "-86.77845",
+    "importance": "1",
+    "source URL": "[Map](https://mapcarta.com/W107627729)"
+  },
+  {
+    "label": "Music Row",
+    "kind": "neighborhood",
+    "latitude": "36.14800",
+    "longitude": "-86.79300",
+    "importance": "2",
+    "source URL": "[Location](https://en.wikipedia.org/wiki/Music_Row)"
+  },
+  {
+    "label": "Musica",
+    "kind": "landmark",
+    "latitude": "36.15210",
+    "longitude": "-86.79165",
+    "importance": "3",
+    "source URL": "[Map](https://mapcarta.com/N5652196013)"
+  },
+  {
+    "label": "Nissan Stadium",
+    "kind": "venue",
+    "latitude": "36.16652",
+    "longitude": "-86.77138",
+    "importance": "1",
+    "source URL": "[Map](https://mapcarta.com/21670198)"
+  },
+  {
+    "label": "Parthenon",
+    "kind": "landmark",
+    "latitude": "36.14972",
+    "longitude": "-86.81338",
+    "importance": "1",
+    "source URL": "[Map](https://mapcarta.com/21642134)"
+  },
+  {
+    "label": "Pedestrian Bridge",
+    "kind": "landmark",
+    "latitude": "36.16201",
+    "longitude": "-86.77273",
+    "importance": "1",
+    "source URL": "[Map](https://mapcarta.com/W655292429)"
+  },
+  {
+    "label": "Printers Alley",
+    "kind": "street",
+    "latitude": "36.16451",
+    "longitude": "-86.77868",
+    "importance": "3",
+    "source URL": "[Map](https://mapcarta.com/N2729284207)"
+  },
+  {
+    "label": "Public Square",
+    "kind": "park",
+    "latitude": "36.16693",
+    "longitude": "-86.77818",
+    "importance": "3",
+    "source URL": "[Map](https://mapcarta.com/W130913024)"
+  },
+  {
+    "label": "RCA Studio B",
+    "kind": "landmark",
+    "latitude": "36.14996",
+    "longitude": "-86.79287",
+    "importance": "3",
+    "source URL": "[Map](https://mapcarta.com/W422018714)"
+  },
+  {
+    "label": "Rose Park",
+    "kind": "park",
+    "latitude": "36.14345",
+    "longitude": "-86.78353",
+    "importance": "3",
+    "source URL": "[Map](https://mapcarta.com/W461995022)"
+  },
+  {
+    "label": "Ryman",
+    "kind": "venue",
+    "latitude": "36.16125",
+    "longitude": "-86.77850",
+    "importance": "2",
+    "source URL": "[Map](https://mapcarta.com/21655718)"
+  },
+  {
+    "label": "Schermerhorn",
+    "kind": "venue",
+    "latitude": "36.15972",
+    "longitude": "-86.77528",
+    "importance": "3",
+    "source URL": "[Location](https://en.wikipedia.org/wiki/Schermerhorn_Symphony_Center)"
+  },
+  {
+    "label": "Sevier Park",
+    "kind": "park",
+    "latitude": "36.11929",
+    "longitude": "-86.78923",
+    "importance": "2",
+    "source URL": "[Map](https://mapcarta.com/21658836)"
+  },
+  {
+    "label": "Shelby Park",
+    "kind": "park",
+    "latitude": "36.16938",
+    "longitude": "-86.73144",
+    "importance": "2",
+    "source URL": "[Map](https://mapcarta.com/21659856)"
+  },
+  {
+    "label": "State Capitol",
+    "kind": "landmark",
+    "latitude": "36.16583",
+    "longitude": "-86.78424",
+    "importance": "1",
+    "source URL": "[Map](https://mapcarta.com/W249147622)"
+  },
+  {
+    "label": "State Museum",
+    "kind": "landmark",
+    "latitude": "36.17248",
+    "longitude": "-86.79012",
+    "importance": "3",
+    "source URL": "[Map](https://mapcarta.com/W695042703)"
+  },
+  {
+    "label": "The Station Inn",
+    "kind": "venue",
+    "latitude": "36.152515",
+    "longitude": "-86.784598",
+    "importance": "2",
+    "source URL": "[Location](https://en.wikipedia.org/wiki/Station_Inn)"
+  },
+  {
+    "label": "Sunnyside",
+    "kind": "landmark",
+    "latitude": "36.11917",
+    "longitude": "-86.78889",
+    "importance": "3",
+    "source URL": "[Location](https://en.wikipedia.org/wiki/Sunnyside_%28Nashville%2C_Tennessee%29)"
+  },
+  {
+    "label": "The Gulch",
+    "kind": "neighborhood",
+    "latitude": "36.15214",
+    "longitude": "-86.78321",
+    "importance": "1",
+    "source URL": "[Map](https://mapcarta.com/W477723212)"
+  },
+  {
+    "label": "TPAC",
+    "kind": "venue",
+    "latitude": "36.16438",
+    "longitude": "-86.78215",
+    "importance": "3",
+    "source URL": "[Map](https://mapcarta.com/21669932)"
+  },
+  {
+    "label": "Union Station",
+    "kind": "landmark",
+    "latitude": "36.15724",
+    "longitude": "-86.78494",
+    "importance": "2",
+    "source URL": "[Address and map](https://opengovny.com/place/ChIJV7WD9_RmZIgRjFrEo3_qtCc)"
+  },
+  {
+    "label": "Vanderbilt",
+    "kind": "landmark",
+    "latitude": "36.14376",
+    "longitude": "-86.80445",
+    "importance": "1",
+    "source URL": "[Map](https://mapcarta.com/21674742)"
+  },
+  {
+    "label": "Vanderbilt Stadium",
+    "kind": "venue",
+    "latitude": "36.14391",
+    "longitude": "-86.80891",
+    "importance": "2",
+    "source URL": "[Map](https://mapcarta.com/W187083446)"
+  },
+  {
+    "label": "Waverly-Belmont School",
+    "kind": "landmark",
+    "latitude": "36.12628",
+    "longitude": "-86.78705",
+    "importance": "3",
+    "source URL": "[Map](https://mapcarta.com/21678112)"
+  },
+  {
+    "label": "West End Ave",
+    "kind": "street",
+    "latitude": "36.13932",
+    "longitude": "-86.81909",
+    "importance": "2",
+    "source URL": "[Transportation study](https://rosap.ntl.bts.gov/view/dot/2522/dot_2522_DS1.pdf#page=96)"
+  },
+  {
+    "label": "Woodland St",
+    "kind": "street",
+    "latitude": "36.16687",
+    "longitude": "-86.77637",
+    "importance": "2",
+    "source URL": "[TDOT inventory](https://www.tn.gov/content/dam/tn/tdot/structures/inventory-and-appraisal/DAVIDSON_OFFSYSTEM.pdf#page=23)"
+  },
+  {
+    "label": "Icon",
+    "kind": "landmark",
+    "latitude": "36.151585",
+    "longitude": "-86.783813",
+    "importance": "2",
+    "source_url": "https://iconinthegulch.com/"
+  }
+]

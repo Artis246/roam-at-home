@@ -388,7 +388,7 @@
     "latitude": "36.152793",
     "longitude": "-86.784563",
     "why_go": "Experience an intimate venue associated with Nashville bluegrass.",
-    "story": "A group of bluegrass musicians founded the Station Inn in 1974. The venue moved to its Gulch location in 1978.",
+    "story": "The Station Inn opened in 1974 and moved here in 1978, back when the Gulch was a nearly deserted industrial stretch and this little building practically had the neighborhood to itself. Today it's a bluegrass island in a sea of glass towers - and the music hasn't changed a bit.",
     "best_time_tip": "Check the performance calendar and confirm the show's arrangements when bringing children.",
     "official_website_url": "https://stationinn.com/",
     "story_source_url": "https://nashvillesites.org/records/station-inn",
@@ -420,7 +420,7 @@
     }
   },
   {
-    "name": "Biscuit Love — The Gulch",
+    "name": "Biscuit Love \u2014 The Gulch",
     "category": "food",
     "latitude": "36.153208",
     "longitude": "-86.783608",
@@ -536,7 +536,7 @@
     }
   },
   {
-    "name": "Martin's Bar-B-Que Joint — Downtown",
+    "name": "Martin's Bar-B-Que Joint \u2014 Downtown",
     "category": "food",
     "latitude": "36.156760",
     "longitude": "-86.774260",
@@ -554,7 +554,7 @@
     }
   },
   {
-    "name": "Sevier Park — 12 South",
+    "name": "Sevier Park \u2014 12 South",
     "category": "park",
     "latitude": "36.1192588",
     "longitude": "-86.7891739",
@@ -575,7 +575,7 @@
     "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
   },
   {
-    "name": "Draper James — 12 South",
+    "name": "Draper James \u2014 12 South",
     "category": "shop",
     "latitude": "36.1232318",
     "longitude": "-86.7898518",
@@ -596,7 +596,7 @@
     "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
   },
   {
-    "name": "Blue & White Wall — 12 South",
+    "name": "Blue & White Wall \u2014 12 South",
     "category": "landmark",
     "latitude": "36.1232531",
     "longitude": "-86.7897316",
@@ -617,7 +617,7 @@
     "coordinate_note": "Official Draper James address geocoded by MapKit; approximate building point, not surveyed wall/entrance."
   },
   {
-    "name": "imogene + willie — 12 South",
+    "name": "imogene + willie \u2014 12 South",
     "category": "shop",
     "latitude": "36.1239191",
     "longitude": "-86.7900878",
@@ -638,7 +638,7 @@
     "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
   },
   {
-    "name": "White's Mercantile — 12 South",
+    "name": "White's Mercantile \u2014 12 South",
     "category": "shop",
     "latitude": "36.1263057",
     "longitude": "-86.7890546",
@@ -659,7 +659,7 @@
     "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
   },
   {
-    "name": "Savant Vintage — 12 South",
+    "name": "Savant Vintage \u2014 12 South",
     "category": "shop",
     "latitude": "36.1273757",
     "longitude": "-86.7888848",
@@ -680,7 +680,7 @@
     "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
   },
   {
-    "name": "Five Daughters Bakery — 12 South",
+    "name": "Five Daughters Bakery \u2014 12 South",
     "category": "food",
     "latitude": "36.1258993",
     "longitude": "-86.7887774",
@@ -701,7 +701,7 @@
     "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
   },
   {
-    "name": "Jeni's Splendid Ice Creams — 12 South",
+    "name": "Jeni's Splendid Ice Creams \u2014 12 South",
     "category": "food",
     "latitude": "36.1268165",
     "longitude": "-86.7891045",
@@ -722,13 +722,13 @@
     "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
   },
   {
-    "name": "Frothy Monkey — 12 South",
+    "name": "Frothy Monkey \u2014 12 South",
     "category": "food",
     "latitude": "36.1245734",
     "longitude": "-86.7899001",
     "why_go": "Visit the original Frothy Monkey for coffee and an all-day meal.",
     "story": "Frothy Monkey welcomed its first guests to this bungalow in 2004. The original location retained its indoor seating while expanding outside with a garden dining area.",
-    "best_time_tip": "Visit early for coffee or later for a meal; the official listing gives daily hours of 7am–8pm.",
+    "best_time_tip": "Visit early for coffee or later for a meal; the official listing gives daily hours of 7am\u20138pm.",
     "official_website_url": "https://frothymonkey.com/locations/12south-nashville-tn/",
     "story_source_url": "https://frothymonkey.com/locations/12south-nashville-tn/",
     "id": "frothy-monkey-12-south",
@@ -743,7 +743,7 @@
     "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
   },
   {
-    "name": "Edley's Bar-B-Que — 12 South",
+    "name": "Edley's Bar-B-Que \u2014 12 South",
     "category": "food",
     "latitude": "36.1228345",
     "longitude": "-86.7898238",
@@ -764,7 +764,7 @@
     "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
   },
   {
-    "name": "Epice — 12 South",
+    "name": "Epice \u2014 12 South",
     "category": "food",
     "latitude": "36.1212384",
     "longitude": "-86.7901431",
@@ -785,7 +785,7 @@
     "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
   },
   {
-    "name": "Urban Grub — 12 South",
+    "name": "Urban Grub \u2014 12 South",
     "category": "food",
     "latitude": "36.1250177",
     "longitude": "-86.7891554",
@@ -806,13 +806,13 @@
     "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
   },
   {
-    "name": "The Butter Milk Ranch — 12 South",
+    "name": "The Butter Milk Ranch \u2014 12 South",
     "category": "food",
     "latitude": "36.1257693",
     "longitude": "-86.7894924",
     "why_go": "Visit for elaborate pastries, breakfast cubes, and brunch.",
     "story": "The Butter Milk Ranch combines a pastry counter with a full-service dining room. Chef Alyssa Gangeri's menu connects Southern breakfast favorites with more unexpected dishes.",
-    "best_time_tip": "Visit Tuesday–Sunday; the pastry counter stays open later than the dining room.",
+    "best_time_tip": "Visit Tuesday\u2013Sunday; the pastry counter stays open later than the dining room.",
     "official_website_url": "https://buttermilkranch.com/visit",
     "story_source_url": "https://buttermilkranch.com/visit",
     "id": "the-butter-milk-ranch-12-south",
@@ -827,7 +827,7 @@
     "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
   },
   {
-    "name": "Make Music Not War Mural — 12 South",
+    "name": "Make Music Not War Mural \u2014 12 South",
     "category": "landmark",
     "latitude": "36.1212401",
     "longitude": "-86.79015",
@@ -848,7 +848,7 @@
     "coordinate_note": "Official Visit Music City mural address geocoded by MapKit; approximate building point, not surveyed wall/entrance."
   },
   {
-    "name": "Flowers Mural — 12 South",
+    "name": "Flowers Mural \u2014 12 South",
     "category": "landmark",
     "latitude": "36.1214355",
     "longitude": "-86.790109",
@@ -869,7 +869,7 @@
     "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
   },
   {
-    "name": "Odie's — Midtown",
+    "name": "Odie's \u2014 Midtown",
     "category": "nightlife",
     "latitude": "36.149477",
     "longitude": "-86.7972576",
@@ -890,13 +890,13 @@
     "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
   },
   {
-    "name": "Losers Midtown / Riley Green's Duck Blind — Midtown",
+    "name": "Losers Midtown / Riley Green's Duck Blind \u2014 Midtown",
     "category": "nightlife",
     "latitude": "36.1496802",
     "longitude": "-86.7967923",
     "why_go": "Visit a Division Street music venue with Riley Green's Duck Blind inside.",
     "story": "Losers Midtown combines its established neighborhood bar with Riley Green's Duck Blind inside the venue. Its current program keeps live music at the center of the experience.",
-    "best_time_tip": "Entry is 21+ after 3pm Monday–Friday and throughout Saturday–Sunday; check the daily music lineup.",
+    "best_time_tip": "Entry is 21+ after 3pm Monday\u2013Friday and throughout Saturday\u2013Sunday; check the daily music lineup.",
     "official_website_url": "https://www.losersmidtown.com/",
     "story_source_url": "https://www.losersmidtown.com/",
     "id": "losers-midtown-riley-green-s-duck-blind-midtown",
@@ -911,7 +911,7 @@
     "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
   },
   {
-    "name": "The Red Door Saloon — Midtown",
+    "name": "The Red Door Saloon \u2014 Midtown",
     "category": "nightlife",
     "latitude": "36.150596",
     "longitude": "-86.7957869",
@@ -932,7 +932,7 @@
     "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
   },
   {
-    "name": "Tin Roof Demonbreun — Demonbreun Hill",
+    "name": "Tin Roof Demonbreun \u2014 Demonbreun Hill",
     "category": "music",
     "latitude": "36.1531262",
     "longitude": "-86.7899943",
@@ -953,7 +953,7 @@
     "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
   },
   {
-    "name": "Analog at Hutton Hotel — Midtown / West End",
+    "name": "Analog at Hutton Hotel \u2014 Midtown / West End",
     "category": "music",
     "latitude": "36.1530416",
     "longitude": "-86.7970683",
@@ -974,7 +974,7 @@
     "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
   },
   {
-    "name": "EXIT/IN — Elliston Place / West End",
+    "name": "EXIT/IN \u2014 Elliston Place / West End",
     "category": "music",
     "latitude": "36.1513774",
     "longitude": "-86.8043843",
@@ -995,13 +995,13 @@
     "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
   },
   {
-    "name": "The Local — West End",
+    "name": "The Local \u2014 West End",
     "category": "music",
     "latitude": "36.145856",
     "longitude": "-86.8127357",
     "why_go": "Visit for original live music near Centennial Park.",
     "story": "The Local centers its program on original live music in a neighborhood bar setting. Its kitchen also works with Tennessee farmers and food suppliers for ingredients.",
-    "best_time_tip": "Check the performance calendar; the venue opens later Monday–Thursday than Friday–Sunday.",
+    "best_time_tip": "Check the performance calendar; the venue opens later Monday\u2013Thursday than Friday\u2013Sunday.",
     "official_website_url": "https://localnash.com/",
     "story_source_url": "https://localnash.com/",
     "id": "the-local-west-end",
@@ -1016,13 +1016,13 @@
     "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
   },
   {
-    "name": "Springwater Supper Club & Lounge — West End",
+    "name": "Springwater Supper Club & Lounge \u2014 West End",
     "category": "music",
     "latitude": "36.1464257",
     "longitude": "-86.8123587",
     "why_go": "Visit a small live-music room beside Centennial Park.",
     "story": "Springwater combines a neighborhood bar with a stage for established and emerging performers. The venue has also served as a location for music-video shoots.",
-    "best_time_tip": "In-person entry is 21+ and cash only; the current FAQ lists Wednesday–Sunday opening.",
+    "best_time_tip": "In-person entry is 21+ and cash only; the current FAQ lists Wednesday\u2013Sunday opening.",
     "official_website_url": "https://www.thespringwater.com/",
     "story_source_url": "https://www.thespringwater.com/faq",
     "id": "springwater-supper-club-lounge-west-end",
@@ -1037,7 +1037,7 @@
     "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
   },
   {
-    "name": "Historic RCA Studio B — Music Row",
+    "name": "Historic RCA Studio B \u2014 Music Row",
     "category": "museum",
     "latitude": "36.149921",
     "longitude": "-86.7928039",
@@ -1058,7 +1058,7 @@
     "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
   },
   {
-    "name": "Owen Bradley Park — Music Row",
+    "name": "Owen Bradley Park \u2014 Music Row",
     "category": "park",
     "latitude": "36.1516703",
     "longitude": "-86.7919515",
@@ -1079,7 +1079,7 @@
     "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
   },
   {
-    "name": "Musica at Buddy Killen Circle — Music Row",
+    "name": "Musica at Buddy Killen Circle \u2014 Music Row",
     "category": "landmark",
     "latitude": "36.1521",
     "longitude": "-86.79165",
@@ -1100,7 +1100,7 @@
     "coordinate_note": "Supplied landmarks.csv coordinate; official sculpture site confirms Music Row roundabout. MapKit name search rejected unrelated results."
   },
   {
-    "name": "Centennial Park — West End",
+    "name": "Centennial Park \u2014 West End",
     "category": "park",
     "latitude": "36.1484504",
     "longitude": "-86.8124587",
@@ -1121,7 +1121,7 @@
     "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
   },
   {
-    "name": "The Parthenon — West End",
+    "name": "The Parthenon \u2014 West End",
     "category": "museum",
     "latitude": "36.149662",
     "longitude": "-86.8134391",
@@ -1142,7 +1142,7 @@
     "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
   },
   {
-    "name": "Five Points Pizza — East Nashville",
+    "name": "Five Points Pizza \u2014 East Nashville",
     "category": "food",
     "latitude": "36.1771483",
     "longitude": "-86.7505031",
@@ -1231,7 +1231,7 @@
     "latitude": "36.177016",
     "longitude": "-86.7497259",
     "why_go": "Settle in with coffee and a board game.",
-    "story": "Bongo moved its roasting operation to Five Points in 2000 and added a café almost as an afterthought. The roasting operation later moved out, leaving room for the coffeehouse and board-game gathering place.",
+    "story": "Bongo moved its roasting operation to Five Points in 2000 and added a caf\u00e9 almost as an afterthought. The roasting operation later moved out, leaving room for the coffeehouse and board-game gathering place.",
     "best_time_tip": "Visit in the evening for help from game coaches; the game library is free for customers.",
     "official_website_url": "https://www.bongojava.com/pages/bongo-east",
     "story_source_url": "https://www.bongojava.com/pages/bongo-east",
@@ -1253,7 +1253,7 @@
     "longitude": "-86.7498351",
     "why_go": "Browse instruments in a welcoming neighborhood music shop.",
     "story": "College friends Leigh Maples and Pamela Cole opened Fanny's in 2009. They wanted a friendly music store where everyone could build happy memories of making music.",
-    "best_time_tip": "Visit Monday–Saturday 11am–6pm or Sunday noon–5pm.",
+    "best_time_tip": "Visit Monday\u2013Saturday 11am\u20136pm or Sunday noon\u20135pm.",
     "official_website_url": "https://www.fannyshouseofmusic.com/",
     "story_source_url": "https://musicachievementcouncil.org/library/oral-history/leigh-maples",
     "id": "fanny-s-house-of-music",
@@ -1310,7 +1310,7 @@
     "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
   },
   {
-    "name": "Edley's Bar-B-Que — Five Points",
+    "name": "Edley's Bar-B-Que \u2014 Five Points",
     "category": "food",
     "latitude": "36.1768709",
     "longitude": "-86.7511783",
@@ -1331,13 +1331,13 @@
     "coordinate_note": "Official current 1004 Woodland Street address geocoded by MapKit; broad name search returned wrong branches and was rejected."
   },
   {
-    "name": "The Turnip Truck — East Nashville",
+    "name": "The Turnip Truck \u2014 East Nashville",
     "category": "shop",
     "latitude": "36.1738274",
     "longitude": "-86.7600286",
     "why_go": "Browse local foods or pick up picnic supplies near East Park.",
     "story": "The Turnip Truck began as a neighborhood natural-food market in Five Points in 2001. In 2015 it moved three blocks toward downtown, expanding its deli and prepared-food offerings.",
-    "best_time_tip": "Open daily 7am–9pm; combine a daytime visit with nearby East Park.",
+    "best_time_tip": "Open daily 7am\u20139pm; combine a daytime visit with nearby East Park.",
     "official_website_url": "https://www.theturniptruck.com/stores/woodland-street/",
     "story_source_url": "https://ediblenashville.ediblecommunities.com/wp-content/uploads/2026/01/Coffee-map_linked.pdf",
     "id": "the-turnip-truck-east-nashville",
@@ -1358,7 +1358,7 @@
     "longitude": "-86.750895",
     "why_go": "Find illustrated cards, art prints, children's books and unusual gifts.",
     "story": "Founder Jessica Maloan Vastagh sold her own prints and greeting cards at regional craft fairs before opening a shop. Gift Horse opened in August 2016 to give independent artists and makers a permanent neighborhood showcase.",
-    "best_time_tip": "Visit Wednesday–Saturday after 10:30am or Sunday after noon; find Suite 301 at the Shoppes on Fatherland.",
+    "best_time_tip": "Visit Wednesday\u2013Saturday after 10:30am or Sunday after noon; find Suite 301 at the Shoppes on Fatherland.",
     "official_website_url": "https://gifthorsenashville.com/",
     "story_source_url": "https://gifthorsenashville.com/pages/about-us",
     "id": "gift-horse",
@@ -1394,13 +1394,13 @@
     "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
   },
   {
-    "name": "Woodland Wine Merchant — East Nashville",
+    "name": "Woodland Wine Merchant \u2014 East Nashville",
     "category": "shop",
     "latitude": "36.1772065",
     "longitude": "-86.751169",
     "why_go": "Explore a small neighborhood shop focused on thoughtfully selected wines.",
     "story": "Woodland Wine Merchant opened its Woodland Street doors in 2007. Its intentionally compact selection highlights changing wines from sustainable producers around the world.",
-    "best_time_tip": "Visit Monday–Saturday 10am–8pm or Sunday noon–6pm; ask staff about unfamiliar producers.",
+    "best_time_tip": "Visit Monday\u2013Saturday 10am\u20138pm or Sunday noon\u20136pm; ask staff about unfamiliar producers.",
     "official_website_url": "https://www.woodlandwinemerchant.com/contact",
     "story_source_url": "https://www.woodlandwinemerchant.com/our-story",
     "id": "woodland-wine-merchant-east-nashville",
@@ -1436,7 +1436,7 @@
     "coordinate_note": "Supplied landmarks.csv park coordinate; Metro Parks confirms 700 Woodland Street. MapKit name search returned unrelated East Hill and was rejected."
   },
   {
-    "name": "I Believe in Nashville mural — The Basement East",
+    "name": "I Believe in Nashville mural \u2014 The Basement East",
     "category": "landmark",
     "latitude": "36.1756285",
     "longitude": "-86.7556474",
@@ -1455,5 +1455,24 @@
     "neighborhood_id": "fivepoints",
     "location_source": "Apple MapKit local search",
     "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "id": "icon_in_the_gulch",
+    "name": "ICON in the Gulch",
+    "category": "architecture",
+    "latitude": "36.151585",
+    "longitude": "-86.783813",
+    "lat": 36.151585,
+    "lon": -86.783813,
+    "street_point": {
+      "lat": 36.151572,
+      "lon": -86.784305
+    },
+    "neighborhood_id": "midtown",
+    "why_go": "Visit an early landmark of The Gulch's redevelopment and see its tower above the neighborhood storefronts.",
+    "story": "Completed in 2008 at 600 12th Avenue South in Nashville, ICON was developed by Bristol Development Group with MarketStreet Enterprises and combines a 22-story tower with a lower residential section. Its glass-and-brick architecture and 26,000 square feet of street-level retail helped establish The Gulch's transformation from an industrial area into a residential neighborhood.",
+    "best_time_tip": "Visit the exterior through Apple Look Around on 12th Avenue South; the condominiums are privately owned.",
+    "official_website_url": "https://iconinthegulch.com/",
+    "story_source_url": "[Developer and completion](https://www.bristoldevelopment.com/community/icon-in-the-gulch/); [Architecture and retail](https://nelsonworldwide.com/project/icon-in-the-gulch/); [Development and significance](https://www.multifamilyexecutive.com/design-development/mfe-awards/2009-mfe-merit-awards_o); [Development partnership](https://www.bizjournals.com/nashville/stories/2009/06/08/story1.html); [Apple Maps place pin](https://maps.apple.com/place?place-id=I48BA44C5D9D7BA45); [Verified Look Around position](https://maps.apple.com/look-around?center=36.151572%2C-86.784305&_mvs=CiQJUt2RuGYTQkARAjY8DDKyVcAZAABNtuNcXUAhEE6GVIW%2BV0A%3D)"
   }
 ]

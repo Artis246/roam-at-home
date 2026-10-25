@@ -388,7 +388,7 @@
     "latitude": "36.152793",
     "longitude": "-86.784563",
     "why_go": "Experience an intimate venue associated with Nashville bluegrass.",
-    "story": "A group of bluegrass musicians founded the Station Inn in 1974. The venue moved to its Gulch location in 1978.",
+    "story": "The Station Inn opened in 1974 and moved here in 1978, back when the Gulch was a nearly deserted industrial stretch and this little building practically had the neighborhood to itself. Today it's a bluegrass island in a sea of glass towers - and the music hasn't changed a bit.",
     "best_time_tip": "Check the performance calendar and confirm the show's arrangements when bringing children.",
     "official_website_url": "https://stationinn.com/",
     "story_source_url": "https://nashvillesites.org/records/station-inn",
@@ -420,7 +420,7 @@
     }
   },
   {
-    "name": "Biscuit Love — The Gulch",
+    "name": "Biscuit Love \u2014 The Gulch",
     "category": "food",
     "latitude": "36.153208",
     "longitude": "-86.783608",
@@ -536,7 +536,7 @@
     }
   },
   {
-    "name": "Martin's Bar-B-Que Joint — Downtown",
+    "name": "Martin's Bar-B-Que Joint \u2014 Downtown",
     "category": "food",
     "latitude": "36.156760",
     "longitude": "-86.774260",
@@ -552,5 +552,24 @@
       "lat": 36.156738,
       "lon": -86.774078
     }
+  },
+  {
+    "id": "icon_in_the_gulch",
+    "name": "ICON in the Gulch",
+    "category": "architecture",
+    "latitude": "36.151585",
+    "longitude": "-86.783813",
+    "lat": 36.151585,
+    "lon": -86.783813,
+    "street_point": {
+      "lat": 36.151572,
+      "lon": -86.784305
+    },
+    "neighborhood_id": "midtown",
+    "why_go": "Visit an early landmark of The Gulch's redevelopment and see its tower above the neighborhood storefronts.",
+    "story": "Completed in 2008 at 600 12th Avenue South in Nashville, ICON was developed by Bristol Development Group with MarketStreet Enterprises and combines a 22-story tower with a lower residential section. Its glass-and-brick architecture and 26,000 square feet of street-level retail helped establish The Gulch's transformation from an industrial area into a residential neighborhood.",
+    "best_time_tip": "Visit the exterior through Apple Look Around on 12th Avenue South; the condominiums are privately owned.",
+    "official_website_url": "https://iconinthegulch.com/",
+    "story_source_url": "[Developer and completion](https://www.bristoldevelopment.com/community/icon-in-the-gulch/); [Architecture and retail](https://nelsonworldwide.com/project/icon-in-the-gulch/); [Development and significance](https://www.multifamilyexecutive.com/design-development/mfe-awards/2009-mfe-merit-awards_o); [Development partnership](https://www.bizjournals.com/nashville/stories/2009/06/08/story1.html); [Apple Maps place pin](https://maps.apple.com/place?place-id=I48BA44C5D9D7BA45); [Verified Look Around position](https://maps.apple.com/look-around?center=36.151572%2C-86.784305&_mvs=CiQJUt2RuGYTQkARAjY8DDKyVcAZAABNtuNcXUAhEE6GVIW%2BV0A%3D)"
   }
 ]

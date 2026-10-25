@@ -1,0 +1,54 @@
+{
+  "id": "nashville",
+  "name": "Nashville",
+  "pageTitle": "Roam at Home \u00b7 Nashville",
+  "visitTitle": "Visit Nashville from home.",
+  "shareTitle": "Visit Nashville",
+  "mapLabel": "Nashville map",
+  "loadingText": "Finding Nashville\u2026",
+  "center": [
+    36.162,
+    -86.781
+  ],
+  "span": [
+    0.027,
+    0.029
+  ],
+  "neighborhoods": [
+    {
+      "id": "downtown",
+      "name": "Downtown & Broadway",
+      "center": [
+        36.161,
+        -86.778
+      ]
+    },
+    {
+      "id": "12south",
+      "name": "12 South",
+      "center": [
+        36.1255,
+        -86.789
+      ]
+    },
+    {
+      "id": "midtown",
+      "name": "Midtown",
+      "center": [
+        36.151,
+        -86.797
+      ]
+    },
+    {
+      "id": "fivepoints",
+      "name": "East Nashville \u00b7 Five Points",
+      "center": [
+        36.177,
+        -86.751
+      ]
+    }
+  ],
+  "places": "places.json",
+  "landmarks": "landmarks.json",
+  "ride": "ride.json"
+}

@@ -1,0 +1,1478 @@
+[
+  {
+    "name": "Ryman Auditorium",
+    "category": "music",
+    "latitude": "36.161707",
+    "longitude": "-86.777667",
+    "why_go": "See the historic auditorium behind generations of Nashville performances.",
+    "story": "The building opened in 1892 as the Union Gospel Tabernacle. It housed the Grand Ole Opry from 1943 to 1974.",
+    "best_time_tip": "Book a daytime tour; performance preparations can affect access.",
+    "official_website_url": "https://www.ryman.com/",
+    "story_source_url": "https://www.ryman.com/about/history",
+    "id": "ryman-auditorium",
+    "lat": 36.161707,
+    "lon": -86.777667,
+    "street_point": {
+      "lat": 36.16165,
+      "lon": -86.778
+    }
+  },
+  {
+    "name": "Country Music Hall of Fame and Museum",
+    "category": "museum",
+    "latitude": "36.158679",
+    "longitude": "-86.776587",
+    "why_go": "Explore country music through instruments, recordings and stage clothing.",
+    "story": "The museum first opened on Music Row in 1967. It moved to its downtown building in 2001.",
+    "best_time_tip": "Allow several hours; check which experiences require separate tickets.",
+    "official_website_url": "https://www.countrymusichalloffame.org/",
+    "story_source_url": "https://www.countrymusichalloffame.org/about",
+    "id": "country-music-hall-of-fame-and-museum",
+    "lat": 36.158679,
+    "lon": -86.776587,
+    "street_point": {
+      "lat": 36.158679,
+      "lon": -86.776587
+    }
+  },
+  {
+    "name": "National Museum of African American Music",
+    "category": "museum",
+    "latitude": "36.160830",
+    "longitude": "-86.779220",
+    "why_go": "Hear how African American musicians shaped American music.",
+    "story": "The museum opened in 2021. Its five principal galleries connect musical traditions through the central Rivers of Rhythm corridor.",
+    "best_time_tip": "Reserve a timed visit and leave time for the interactive exhibits.",
+    "official_website_url": "https://www.nmaam.org/",
+    "story_source_url": "https://www.nmaam.org/about/",
+    "id": "national-museum-of-african-american-music",
+    "lat": 36.16083,
+    "lon": -86.77922,
+    "street_point": {
+      "lat": 36.16061,
+      "lon": -86.77894
+    }
+  },
+  {
+    "name": "Frist Art Museum",
+    "category": "museum",
+    "latitude": "36.157630",
+    "longitude": "-86.783760",
+    "why_go": "Combine changing art exhibitions with an Art Deco building.",
+    "story": "The building opened as Nashville's main post office in 1934. It became an art museum in 2001, retaining features including terrazzo floors and decorative stair railings.",
+    "best_time_tip": "Check opening days; admission is free for visitors aged 18 and younger.",
+    "official_website_url": "https://fristartmuseum.org/",
+    "story_source_url": "https://nashvillesites.org/records/frist-art-museum-and-united-states-post-office",
+    "id": "frist-art-museum",
+    "lat": 36.15763,
+    "lon": -86.78376,
+    "street_point": {
+      "lat": 36.157527,
+      "lon": -86.7835827
+    },
+    "lookaround_place_id": "I58FFB9B33D9748CC"
+  },
+  {
+    "name": "Johnny Cash Museum",
+    "category": "museum",
+    "latitude": "36.160898",
+    "longitude": "-86.775819",
+    "why_go": "Follow Johnny Cash's life through personal objects and recordings.",
+    "story": "Bill and Shannon Miller opened the museum in 2013. Its collection includes objects from Cash's Hendersonville home and the former House of Cash museum.",
+    "best_time_tip": "Choose an earlier admission time to fit this compact museum into a downtown walk.",
+    "official_website_url": "https://www.johnnycashmuseum.com/",
+    "story_source_url": "https://nashvillesites.org/records/johnny-cash-museum",
+    "id": "johnny-cash-museum",
+    "lat": 36.160898,
+    "lon": -86.775819,
+    "street_point": {
+      "lat": 36.160898,
+      "lon": -86.775819
+    }
+  },
+  {
+    "name": "Hatch Show Print",
+    "category": "music",
+    "latitude": "36.157873",
+    "longitude": "-86.776395",
+    "why_go": "Watch traditional concert-poster printing and browse the finished work.",
+    "story": "Brothers Charles and Herbert Hatch founded the business in 1879. The shop still makes letterpress posters using historic type and hand-carved images.",
+    "best_time_tip": "Reserve a shop tour if you want to see the printing process.",
+    "official_website_url": "https://hatchshowprint.com/",
+    "story_source_url": "https://hatchshowprint.com/about",
+    "id": "hatch-show-print",
+    "lat": 36.157873,
+    "lon": -86.776395,
+    "street_point": {
+      "lat": 36.15795,
+      "lon": -86.77625
+    }
+  },
+  {
+    "name": "Goo Goo Chocolate Co.",
+    "category": "food",
+    "latitude": "36.160914",
+    "longitude": "-86.775485",
+    "why_go": "Try a Nashville candy and explore its ingredients.",
+    "story": "The Goo Goo Cluster was created in Nashville in 1912. It combined caramel, marshmallow nougat and peanuts beneath a milk-chocolate coating.",
+    "best_time_tip": "Check ingredients for allergies; book ahead for a scheduled chocolate-making class.",
+    "official_website_url": "https://googoo.com/pages/nashville-storefront",
+    "story_source_url": "https://tnmuseum.org/Stories/posts/googoosandmoonpies",
+    "id": "goo-goo-chocolate-co",
+    "lat": 36.160914,
+    "lon": -86.775485,
+    "street_point": {
+      "lat": 36.160914,
+      "lon": -86.775485
+    }
+  },
+  {
+    "name": "Schermerhorn Symphony Center",
+    "category": "music",
+    "latitude": "36.159901",
+    "longitude": "-86.776348",
+    "why_go": "Hear an orchestra or admire the concert hall's architecture.",
+    "story": "Schermerhorn Symphony Center opened on September 9, 2006. Thirty soundproof windows bring natural light into its main concert hall.",
+    "best_time_tip": "Look for a family concert and check ticket availability before visiting.",
+    "official_website_url": "https://www.nashvillesymphony.org/",
+    "story_source_url": "https://www.nashvillesymphony.org/about/schermerhorn-symphony-center/",
+    "id": "schermerhorn-symphony-center",
+    "lat": 36.159901,
+    "lon": -86.776348,
+    "street_point": {
+      "lat": 36.159901,
+      "lon": -86.776348
+    }
+  },
+  {
+    "name": "Music City Walk of Fame Park",
+    "category": "park",
+    "latitude": "36.159030",
+    "longitude": "-86.776440",
+    "why_go": "Find pavement stars honoring musicians across several genres.",
+    "story": "The Music City Walk of Fame began in 2006. Its honorees include Dolly Parton, Jimi Hendrix and the Fisk Jubilee Singers.",
+    "best_time_tip": "Visit in daylight to read the stars; the outdoor walk is free.",
+    "official_website_url": "https://www.visitmusiccity.com/walk-of-fame",
+    "story_source_url": "https://nashvillesites.org/records/music-city-walk-of-fame-park",
+    "id": "music-city-walk-of-fame-park",
+    "lat": 36.15903,
+    "lon": -86.77644,
+    "street_point": {
+      "lat": 36.15903,
+      "lon": -86.77644
+    }
+  },
+  {
+    "name": "Riverfront Park",
+    "category": "park",
+    "latitude": "36.162429",
+    "longitude": "-86.774092",
+    "why_go": "Pause beside the Cumberland at the river end of Broadway.",
+    "story": "Riverfront Park was created in the early 1980s. Its riverside setting became a venue for concerts, art festivals and other public events.",
+    "best_time_tip": "Start at the Broadway and First Avenue entrance; check for event closures.",
+    "official_website_url": "https://nashvilledowntown.com/parks-concept/riverfront-park",
+    "story_source_url": "https://www.visitmusiccity.com/nashville-businesses/riverfront-park/5757",
+    "id": "riverfront-park",
+    "lat": 36.162429,
+    "lon": -86.774092,
+    "street_point": {
+      "lat": 36.162429,
+      "lon": -86.774092
+    }
+  },
+  {
+    "name": "Fort Nashborough",
+    "category": "landmark",
+    "latitude": "36.164110",
+    "longitude": "-86.775340",
+    "why_go": "Explore a reconstructed log settlement beside the river.",
+    "story": "Settlers established the original Fort Nashborough in 1780. The reconstructed site was renovated in 2017 after damage from the 2010 flood.",
+    "best_time_tip": "Visit during the city's posted daytime hours; self-guided admission is free.",
+    "official_website_url": "https://www.nashville.gov/departments/parks/historic-sites/fort-nashborough",
+    "story_source_url": "https://nashvillesites.org/records/fort-nashborough",
+    "id": "fort-nashborough",
+    "lat": 36.16411,
+    "lon": -86.77534,
+    "street_point": {
+      "lat": 36.16411,
+      "lon": -86.77534
+    }
+  },
+  {
+    "name": "John Seigenthaler Pedestrian Bridge",
+    "category": "view",
+    "latitude": "36.161214",
+    "longitude": "-86.773528",
+    "why_go": "Walk above the Cumberland for views of downtown and the riverbanks.",
+    "story": "The bridge opened in 1909 to connect downtown with East Nashville. After closing to vehicles in 1998, it reopened as a pedestrian bridge in 2003.",
+    "best_time_tip": "Use the First Avenue South ramp at these coordinates; late afternoon offers changing skyline light.",
+    "official_website_url": "https://www.visitmusiccity.com/nashville-trip-ideas/nashvilles-accessibility-itinerary",
+    "story_source_url": "https://www.tclf.org/john-seigenthaler-pedestrian-bridge",
+    "id": "john-seigenthaler-pedestrian-bridge",
+    "lat": 36.161214,
+    "lon": -86.773528,
+    "street_point": {
+      "lat": 36.161214,
+      "lon": -86.773528
+    }
+  },
+  {
+    "name": "Wasioto Park",
+    "category": "park",
+    "latitude": "36.162762",
+    "longitude": "-86.771069",
+    "why_go": "Explore riverside paths and play areas across from downtown.",
+    "story": "This 6.5-acre park was developed as part of Nashville's riverfront revitalization. Its Explorer Trail includes planting designed to attract butterflies.",
+    "best_time_tip": "Visit in daylight; the city currently lists the sprayground as closed for repairs.",
+    "official_website_url": "https://www.nashville.gov/departments/parks/parks/wasioto-park",
+    "story_source_url": "https://www.nashville.gov/departments/parks/parks/wasioto-park",
+    "id": "wasioto-park",
+    "lat": 36.162762,
+    "lon": -86.771069,
+    "street_point": {
+      "lat": 36.162762,
+      "lon": -86.771069
+    }
+  },
+  {
+    "name": "Bicentennial Capitol Mall State Park",
+    "category": "park",
+    "latitude": "36.171166",
+    "longitude": "-86.787431",
+    "why_go": "Explore Tennessee geography through an outdoor map and landscaped walks.",
+    "story": "The park was dedicated on June 1, 1996, for Tennessee's bicentennial. Its features include a 200-foot granite state map and a 95-bell carillon.",
+    "best_time_tip": "Walk in the morning and combine the visit with the neighboring market and museum.",
+    "official_website_url": "https://tnstateparks.com/parks/bicentennial-mall",
+    "story_source_url": "https://nashvillesites.org/records/bicentennial-capitol-mall-state-park",
+    "id": "bicentennial-capitol-mall-state-park",
+    "lat": 36.171166,
+    "lon": -86.787431,
+    "street_point": {
+      "lat": 36.171166,
+      "lon": -86.787431
+    }
+  },
+  {
+    "name": "Tennessee State Capitol",
+    "category": "landmark",
+    "latitude": "36.165890",
+    "longitude": "-86.784280",
+    "why_go": "Study the hilltop building's Greek Revival architecture.",
+    "story": "Architect William Strickland designed the building, which was completed in 1859. Its tower replaces the dome familiar from many other state capitols.",
+    "best_time_tip": "Choose a weekday for an interior tour; check current construction access and use the west visitor entrance.",
+    "official_website_url": "https://tnmuseum.org/state-capitol",
+    "story_source_url": "https://tnmuseum.org/state-capitol",
+    "id": "tennessee-state-capitol",
+    "lat": 36.16589,
+    "lon": -86.78428,
+    "street_point": {
+      "lat": 36.1658,
+      "lon": -86.7845
+    }
+  },
+  {
+    "name": "Tennessee State Museum",
+    "category": "museum",
+    "latitude": "36.172500",
+    "longitude": "-86.790200",
+    "why_go": "Explore Tennessee's landscapes, communities and material history.",
+    "story": "The Tennessee State Museum was established in 1937. It moved into its current building beside Bicentennial Capitol Mall in October 2018.",
+    "best_time_tip": "Admission is free; the museum is closed on Mondays.",
+    "official_website_url": "https://tnmuseum.org/",
+    "story_source_url": "https://nashvillesites.org/records/tennessee-state-museum",
+    "id": "tennessee-state-museum",
+    "lat": 36.1725,
+    "lon": -86.7902,
+    "street_point": {
+      "lat": 36.1725,
+      "lon": -86.7902
+    }
+  },
+  {
+    "name": "Nashville Farmers' Market",
+    "category": "food",
+    "latitude": "36.171463",
+    "longitude": "-86.788964",
+    "why_go": "Browse farm stalls and choose a meal from independent food vendors.",
+    "story": "Nashville's market tradition reaches back to the early 1800s. The present market combines two covered farm sheds with an indoor food hall.",
+    "best_time_tip": "Try a weekend morning for farm stalls; check the vendor calendar before going.",
+    "official_website_url": "https://www.nashvillefarmersmarket.org/",
+    "story_source_url": "https://www.nashvillefarmersmarket.org/overview",
+    "id": "nashville-farmers-market",
+    "lat": 36.171463,
+    "lon": -86.788964,
+    "street_point": {
+      "lat": 36.17065,
+      "lon": -86.7885
+    }
+  },
+  {
+    "name": "Musicians Hall of Fame and Museum",
+    "category": "museum",
+    "latitude": "36.167710",
+    "longitude": "-86.782680",
+    "why_go": "Discover the players and instruments behind familiar recordings.",
+    "story": "The museum preserves a stage from Nashville's Jolly Roger club where Jimi Hendrix performed. Its collection also includes a Stratocaster guitar that belonged to Hendrix.",
+    "best_time_tip": "Use the Musicians Way entrance; check opening days before walking over.",
+    "official_website_url": "https://www.musicianshalloffame.com/",
+    "story_source_url": "https://www.musicianshalloffame.com/",
+    "id": "musicians-hall-of-fame-and-museum",
+    "lat": 36.16771,
+    "lon": -86.78268,
+    "street_point": {
+      "lat": 36.16771,
+      "lon": -86.7823
+    }
+  },
+  {
+    "name": "Union Station Nashville Yards",
+    "category": "landmark",
+    "latitude": "36.157471",
+    "longitude": "-86.784889",
+    "why_go": "See a former railway terminal adapted into a hotel.",
+    "story": "Union Station opened in 1900 as a Louisville and Nashville Railroad terminal. The building reopened as a hotel in 1986.",
+    "best_time_tip": "Visit the exterior in daylight; respect hotel guests when viewing public interior areas.",
+    "official_website_url": "https://www.unionstationhotelnashville.com/",
+    "story_source_url": "https://www.unionstationhotelnashville.com/discover/history/",
+    "id": "union-station-nashville-yards",
+    "lat": 36.157471,
+    "lon": -86.784889,
+    "street_point": {
+      "lat": 36.1573372,
+      "lon": -86.7846375
+    }
+  },
+  {
+    "name": "The Arcade",
+    "category": "walk",
+    "latitude": "36.164520",
+    "longitude": "-86.779630",
+    "why_go": "Walk through a historic covered shopping passage.",
+    "story": "The Arcade was modeled on Milan's Galleria Vittorio Emanuele. Its recent restoration was developed with Nashville architecture firm Dryden Studio.",
+    "best_time_tip": "Use the Fifth Avenue entrance at these coordinates; check individual business hours.",
+    "official_website_url": "https://thearcadenashville.com/",
+    "story_source_url": "https://thearcadenashville.com/",
+    "id": "the-arcade",
+    "lat": 36.16452,
+    "lon": -86.77963,
+    "street_point": {
+      "lat": 36.1638487,
+      "lon": -86.7795967
+    },
+    "map_point": {
+      "lat": 36.1638487,
+      "lon": -86.7795967
+    }
+  },
+  {
+    "name": "Downtown Presbyterian Church",
+    "category": "landmark",
+    "latitude": "36.163165",
+    "longitude": "-86.779764",
+    "why_go": "Look for Egyptian Revival details in an unexpected downtown setting.",
+    "story": "William Strickland designed the church in the Egyptian Revival style, and it was completed in 1851. Its interior was reconfigured and decorated in 1880.",
+    "best_time_tip": "Check for scheduled sanctuary tours; avoid interrupting services.",
+    "official_website_url": "https://dpchurch.com/",
+    "story_source_url": "https://nashvillesites.org/records/downtown-presbyterian-church",
+    "id": "downtown-presbyterian-church",
+    "lat": 36.163165,
+    "lon": -86.779764,
+    "street_point": {
+      "lat": 36.163,
+      "lon": -86.77965
+    }
+  },
+  {
+    "name": "The Station Inn",
+    "category": "music",
+    "latitude": "36.152793",
+    "longitude": "-86.784563",
+    "why_go": "Experience an intimate venue associated with Nashville bluegrass.",
+    "story": "The Station Inn opened in 1974 and moved here in 1978, back when the Gulch was a nearly deserted industrial stretch and this little building practically had the neighborhood to itself. Today it's a bluegrass island in a sea of glass towers - and the music hasn't changed a bit.",
+    "best_time_tip": "Check the performance calendar and confirm the show's arrangements when bringing children.",
+    "official_website_url": "https://stationinn.com/",
+    "story_source_url": "https://nashvillesites.org/records/station-inn",
+    "id": "the-station-inn",
+    "lat": 36.152793,
+    "lon": -86.784563,
+    "street_point": {
+      "lat": 36.152515,
+      "lon": -86.784598
+    },
+    "lookaround_place_id": "IB55B41B46B3D36A5"
+  },
+  {
+    "name": "What Lifts You Wings Mural",
+    "category": "landmark",
+    "latitude": "36.153951",
+    "longitude": "-86.783891",
+    "why_go": "Take a photo and search the wings for Nashville-themed details.",
+    "story": "Artist Kelsey Montague painted the Gulch wings in 2016. The design incorporates local references including guitars, a cowboy hat and barbecue.",
+    "best_time_tip": "Try an early weekday visit; smaller wings beside the main mural suit children.",
+    "official_website_url": "https://kelseymontagueart.com/nashville-gulch-wings-by-kelsey-montague/",
+    "story_source_url": "https://kelseymontagueart.com/nashville-gulch-wings-by-kelsey-montague/",
+    "id": "what-lifts-you-wings-mural",
+    "lat": 36.153951,
+    "lon": -86.783891,
+    "street_point": {
+      "lat": 36.153951,
+      "lon": -86.783891
+    }
+  },
+  {
+    "name": "Biscuit Love \u2014 The Gulch",
+    "category": "food",
+    "latitude": "36.153208",
+    "longitude": "-86.783608",
+    "why_go": "Try a biscuit-centered breakfast while exploring the Gulch.",
+    "story": "Biscuit Love began as an Airstream food truck in 2012. It grew into restaurants serving biscuits made from scratch.",
+    "best_time_tip": "Try an early weekday breakfast and check holiday hours.",
+    "official_website_url": "https://www.biscuitlove.com/locations",
+    "story_source_url": "https://www.biscuitlove.com/",
+    "id": "biscuit-love-the-gulch",
+    "lat": 36.153208,
+    "lon": -86.783608,
+    "street_point": {
+      "lat": 36.1530632,
+      "lon": -86.7832176
+    }
+  },
+  {
+    "name": "Assembly Food Hall",
+    "category": "food",
+    "latitude": "36.161210",
+    "longitude": "-86.779420",
+    "why_go": "Give a group several meal choices in one downtown stop.",
+    "story": "Gensler designed the food hall across the second and third floors of Fifth + Broadway. A pedestrian bridge connects its two second-floor dining buildings.",
+    "best_time_tip": "Go before the lunch rush and check individual vendor hours.",
+    "official_website_url": "https://www.assemblyfoodhall.com/",
+    "story_source_url": "https://www.gensler.com/projects/assembly-food-hall",
+    "id": "assembly-food-hall",
+    "lat": 36.16121,
+    "lon": -86.77942,
+    "street_point": {
+      "lat": 36.16065,
+      "lon": -86.7795
+    }
+  },
+  {
+    "name": "Printers Alley",
+    "category": "walk",
+    "latitude": "36.164659",
+    "longitude": "-86.778786",
+    "why_go": "Explore a short alley associated with Nashville's printing history.",
+    "story": "Printers Alley developed around newspaper offices and printing businesses. Its historic district was added to the National Register of Historic Places in 1982.",
+    "best_time_tip": "For a family visit, choose a daytime architecture walk.",
+    "official_website_url": "https://www.thedistrictnashville.org/about-us",
+    "story_source_url": "https://nashvillesites.org/records/printers-alley-national-register-historic-district-",
+    "id": "printers-alley",
+    "lat": 36.164659,
+    "lon": -86.778786,
+    "street_point": {
+      "lat": 36.164659,
+      "lon": -86.778786
+    }
+  },
+  {
+    "name": "Lower Broadway",
+    "category": "walk",
+    "latitude": "36.162429",
+    "longitude": "-86.774092",
+    "why_go": "Walk the neon-lined street and hear music drifting from its doorways.",
+    "story": "Originally called Broad Street, this corridor connected the river docks with the growing city. The Broadway Historic District entered the National Register of Historic Places in 1980.",
+    "best_time_tip": "Start beside Riverfront Park at these coordinates; choose daylight for a family walk.",
+    "official_website_url": "https://www.visitmusiccity.com/things-to-do-in-nashville/music-entertainment/guide-to-honky-tonk-highway",
+    "story_source_url": "https://www.tclf.org/lower-broadway",
+    "id": "lower-broadway",
+    "lat": 36.162429,
+    "lon": -86.774092,
+    "street_point": {
+      "lat": 36.16195,
+      "lon": -86.7753
+    },
+    "map_point": {
+      "lat": 36.1621,
+      "lon": -86.77474
+    }
+  },
+  {
+    "name": "Ghost Ballet for the East Bank Machineworks",
+    "category": "landmark",
+    "latitude": "36.164070",
+    "longitude": "-86.772360",
+    "why_go": "View a large riverfront sculpture against the downtown skyline.",
+    "story": "Alice Aycock's sculpture was installed on the east bank in 2007. Its red steel trusses rise from a crane base, referencing the site's industrial past.",
+    "best_time_tip": "Combine it with a daylight riverbank walk and a pedestrian-bridge crossing.",
+    "official_website_url": "https://www.metroartsnashville.gov/metro-public-art-collection?pgid=jkx0tpry-42bdef1e-6cf9-11e9-a9ff-063f49e9a7e4",
+    "story_source_url": "https://www.metroartsnashville.gov/metro-public-art-collection?pgid=jkx0tpry-42bdef1e-6cf9-11e9-a9ff-063f49e9a7e4",
+    "id": "ghost-ballet-for-the-east-bank-machineworks",
+    "lat": 36.16407,
+    "lon": -86.77236,
+    "street_point": {
+      "lat": 36.1631193,
+      "lon": -86.7721921
+    },
+    "map_point": {
+      "lat": 36.1631193,
+      "lon": -86.7721921
+    }
+  },
+  {
+    "name": "Music City Center",
+    "category": "landmark",
+    "latitude": "36.158040",
+    "longitude": "-86.776858",
+    "why_go": "Examine the convention center's sweeping roofline while walking through SoBro.",
+    "story": "Construction began in March 2010. The convention center opened in May 2013 on a 16-acre downtown site.",
+    "best_time_tip": "View the exterior in daylight; check the official tour schedule for interior access.",
+    "official_website_url": "https://nashvillemcc.com/",
+    "story_source_url": "https://nashvillesites.org/records/music-city-center",
+    "id": "music-city-center",
+    "lat": 36.15804,
+    "lon": -86.776858,
+    "street_point": {
+      "lat": 36.1579,
+      "lon": -86.7774
+    }
+  },
+  {
+    "name": "Martin's Bar-B-Que Joint \u2014 Downtown",
+    "category": "food",
+    "latitude": "36.156760",
+    "longitude": "-86.774260",
+    "why_go": "Stop for barbecue a few blocks south of Broadway.",
+    "story": "The downtown restaurant opened on August 4, 2016. It occupies the former Rutledge music venue.",
+    "best_time_tip": "Try an early lunch and check the downtown location's current hours.",
+    "official_website_url": "https://www.martinsbbqjoint.com/downtown",
+    "story_source_url": "https://nashvilleguru.com/54215/martins-bbq-sobro",
+    "id": "martin-s-bar-b-que-joint-downtown",
+    "lat": 36.15676,
+    "lon": -86.77426,
+    "street_point": {
+      "lat": 36.156738,
+      "lon": -86.774078
+    }
+  },
+  {
+    "name": "Sevier Park \u2014 12 South",
+    "category": "park",
+    "latitude": "36.1192588",
+    "longitude": "-86.7891739",
+    "why_go": "Visit a green retreat at the southern end of the shopping district.",
+    "story": "Sevier Park's grounds include historic Sunnyside and a 20-acre park landscape. A new community center opened in spring 2014 as part of investment in the park.",
+    "best_time_tip": "Visit in daylight and combine the park with a walk along 12th Avenue South.",
+    "official_website_url": "https://www.nashville.gov/departments/parks/planning-and-facilities-development/park-plans-and-projects/sevier-park",
+    "story_source_url": "https://www.nashville.gov/departments/parks/planning-and-facilities-development/park-plans-and-projects/sevier-park",
+    "id": "sevier-park-12-south",
+    "lat": 36.1192588,
+    "lon": -86.7891739,
+    "street_point": {
+      "lat": 36.1192588,
+      "lon": -86.7891739
+    },
+    "neighborhood_id": "12south",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "Draper James \u2014 12 South",
+    "category": "shop",
+    "latitude": "36.1232318",
+    "longitude": "-86.7898518",
+    "why_go": "Visit Reese Witherspoon's flagship shop for Southern-inspired clothing and gifts.",
+    "story": "Draper James opened its first shop in Nashville in October 2015. Its blue-and-white design carried the brand's Southern style into a permanent home on 12th Avenue South.",
+    "best_time_tip": "Visit during shop hours at 2608 12th Avenue South; Sunday opening is later.",
+    "official_website_url": "https://draperjames.com/pages/store-locator",
+    "story_source_url": "https://blog.draperjames.com/2015/10/do-come-knockin-our-draper-james-flagship-is-open-in-nashville/",
+    "id": "draper-james-12-south",
+    "lat": 36.1232318,
+    "lon": -86.7898518,
+    "street_point": {
+      "lat": 36.1232318,
+      "lon": -86.7898518
+    },
+    "neighborhood_id": "12south",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "Blue & White Wall \u2014 12 South",
+    "category": "landmark",
+    "latitude": "36.1232531",
+    "longitude": "-86.7897316",
+    "why_go": "Visit the striped wall for a recognizable neighborhood photo.",
+    "story": "The blue-and-white striped wall forms part of the Draper James building. The shop's signature colors became a separate photo stop on the side of the boutique.",
+    "best_time_tip": "Visit in daylight at 2608 12th Avenue South and keep the passage clear.",
+    "official_website_url": "https://draperjames.com/pages/store-locator",
+    "story_source_url": "https://nashvilleguru.com/businesses/blue-white-wall",
+    "id": "blue-white-wall-12-south",
+    "lat": 36.1232531,
+    "lon": -86.7897316,
+    "street_point": {
+      "lat": 36.1232531,
+      "lon": -86.7897316
+    },
+    "neighborhood_id": "12south",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Official Draper James address geocoded by MapKit; approximate building point, not surveyed wall/entrance."
+  },
+  {
+    "name": "imogene + willie \u2014 12 South",
+    "category": "shop",
+    "latitude": "36.1239191",
+    "longitude": "-86.7900878",
+    "why_go": "Visit a Nashville denim shop inside a former service station.",
+    "story": "imogene + willie began in 2009 in a 1950s Nashville service station. The brand still occupies that building while designing its collection in Nashville and producing its clothing in the United States.",
+    "best_time_tip": "Visit during shop hours at 2601 12th Avenue South.",
+    "official_website_url": "https://imogeneandwillie.com/pages/contact",
+    "story_source_url": "https://www.visitmusiccity.com/nashville-businesses/imogene-willie/5586",
+    "id": "imogene-willie-12-south",
+    "lat": 36.1239191,
+    "lon": -86.7900878,
+    "street_point": {
+      "lat": 36.1239191,
+      "lon": -86.7900878
+    },
+    "neighborhood_id": "12south",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "White's Mercantile \u2014 12 South",
+    "category": "shop",
+    "latitude": "36.1263057",
+    "longitude": "-86.7890546",
+    "why_go": "Visit a modern general store filled with gifts and home goods.",
+    "story": "Singer-songwriter Holly Williams founded White's Mercantile in 2013 with the idea of reviving the general store. She named it for her maternal grandparents, whose family story included a Louisiana mercantile.",
+    "best_time_tip": "Use the current address: 2400 12th Avenue South; older guides list a different location.",
+    "official_website_url": "https://shopwhitesmercantile.com/pages/locations",
+    "story_source_url": "https://shopwhitesmercantile.com/pages/about",
+    "id": "white-s-mercantile-12-south",
+    "lat": 36.1263057,
+    "lon": -86.7890546,
+    "street_point": {
+      "lat": 36.1263057,
+      "lon": -86.7890546
+    },
+    "neighborhood_id": "12south",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "Savant Vintage \u2014 12 South",
+    "category": "shop",
+    "latitude": "36.1273757",
+    "longitude": "-86.7888848",
+    "why_go": "Visit a compact shop packed with vintage clothing and unusual finds.",
+    "story": "Savant's owner sources the vintage pieces that fill the shop. The resulting collection makes this small 12 South storefront a place to browse individual finds rather than matching racks.",
+    "best_time_tip": "Visit 2302 12th Avenue South; check the shop's current social posts for hours.",
+    "official_website_url": "https://www.instagram.com/savantvintage/",
+    "story_source_url": "https://nashvilleguru.com/72549/vintage-and-consignment-shops-in-nashville",
+    "id": "savant-vintage-12-south",
+    "lat": 36.1273757,
+    "lon": -86.7888848,
+    "street_point": {
+      "lat": 36.1273757,
+      "lon": -86.7888848
+    },
+    "neighborhood_id": "12south",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "Five Daughters Bakery \u2014 12 South",
+    "category": "food",
+    "latitude": "36.1258993",
+    "longitude": "-86.7887774",
+    "why_go": "Visit for the bakery's signature 100-layer doughnuts.",
+    "story": "Isaac and Stephanie Meek built Five Daughters Bakery with their five daughters, giving the business its name. Their croissant-style 100-layer doughnut became the bakery's signature.",
+    "best_time_tip": "Visit the Caruthers Avenue shop early for the widest selection; flavors vary.",
+    "official_website_url": "https://www.fivedaughtersbakery.com/",
+    "story_source_url": "https://dc8f6f8b5b29598a80bf7a076276b10149a55640.web.ordersave.com/nashville",
+    "id": "five-daughters-bakery-12-south",
+    "lat": 36.1258993,
+    "lon": -86.7887774,
+    "street_point": {
+      "lat": 36.1258993,
+      "lon": -86.7887774
+    },
+    "neighborhood_id": "12south",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "Jeni's Splendid Ice Creams \u2014 12 South",
+    "category": "food",
+    "latitude": "36.1268165",
+    "longitude": "-86.7891045",
+    "why_go": "Visit for inventive ice-cream flavors during a neighborhood walk.",
+    "story": "Jeni Britton opened Jeni's Splendid Ice Creams in Columbus in 2002. The company later expanded to Nashville, where its 12 South shop serves the neighborhood from 2312 12th Avenue South.",
+    "best_time_tip": "Visit after noon for a dependable opening window; check the location page for daily hours.",
+    "official_website_url": "https://jenis.com/blogs/scoop-shops/nashville-tn",
+    "story_source_url": "https://jenis.com/pages/jeni-britton",
+    "id": "jeni-s-splendid-ice-creams-12-south",
+    "lat": 36.1268165,
+    "lon": -86.7891045,
+    "street_point": {
+      "lat": 36.1268165,
+      "lon": -86.7891045
+    },
+    "neighborhood_id": "12south",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "Frothy Monkey \u2014 12 South",
+    "category": "food",
+    "latitude": "36.1245734",
+    "longitude": "-86.7899001",
+    "why_go": "Visit the original Frothy Monkey for coffee and an all-day meal.",
+    "story": "Frothy Monkey welcomed its first guests to this bungalow in 2004. The original location retained its indoor seating while expanding outside with a garden dining area.",
+    "best_time_tip": "Visit early for coffee or later for a meal; the official listing gives daily hours of 7am\u20138pm.",
+    "official_website_url": "https://frothymonkey.com/locations/12south-nashville-tn/",
+    "story_source_url": "https://frothymonkey.com/locations/12south-nashville-tn/",
+    "id": "frothy-monkey-12-south",
+    "lat": 36.1245734,
+    "lon": -86.7899001,
+    "street_point": {
+      "lat": 36.1245734,
+      "lon": -86.7899001
+    },
+    "neighborhood_id": "12south",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "Edley's Bar-B-Que \u2014 12 South",
+    "category": "food",
+    "latitude": "36.1228345",
+    "longitude": "-86.7898238",
+    "why_go": "Visit the original Edley's for smoked meats and Southern sides.",
+    "story": "Will and Catharine Newman opened the first Edley's in 12 South in 2011. Its kitchen smokes meats over Southern white oak and prepares sides from scratch daily.",
+    "best_time_tip": "Visit around opening for lunch at 2706 12th Avenue South.",
+    "official_website_url": "https://www.edleysbbq.com/locations/12-south",
+    "story_source_url": "https://www.edleysbbq.com/edleys-story",
+    "id": "edley-s-bar-b-que-12-south",
+    "lat": 36.1228345,
+    "lon": -86.7898238,
+    "street_point": {
+      "lat": 36.1228345,
+      "lon": -86.7898238
+    },
+    "neighborhood_id": "12south",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "Epice \u2014 12 South",
+    "category": "food",
+    "latitude": "36.1212384",
+    "longitude": "-86.7901431",
+    "why_go": "Visit a Lebanese bistro for pita sandwiches and a relaxed meal.",
+    "story": "Lebanese-born restaurateur Maher Fawaz brought Epice to 12 South after establishing Kalamatas. The restaurant introduced another home for Lebanese cooking along the neighborhood's dining strip.",
+    "best_time_tip": "Reserve for dinner; the restaurant lists Monday closure and weekend brunch.",
+    "official_website_url": "https://epicenashville.squarespace.com/",
+    "story_source_url": "https://www.nashvillescene.com/food_drink/epice-a-lebanese-bistro-opens-in-12south/article_c7775500-b8c4-5136-853a-032a273f9dab.html",
+    "id": "epice-12-south",
+    "lat": 36.1212384,
+    "lon": -86.7901431,
+    "street_point": {
+      "lat": 36.1212384,
+      "lon": -86.7901431
+    },
+    "neighborhood_id": "12south",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "Urban Grub \u2014 12 South",
+    "category": "food",
+    "latitude": "36.1250177",
+    "longitude": "-86.7891554",
+    "why_go": "Visit for seafood, smoked meats, and outdoor dining.",
+    "story": "Urban Grub began with a small carwash at 12th Avenue South and Gilmore Avenue. After 13 months of development, the site opened as a restaurant with several indoor and outdoor spaces in April 2012.",
+    "best_time_tip": "Reserve for dinner or weekend brunch; check the official hours before visiting.",
+    "official_website_url": "https://www.urbangrub.net/",
+    "story_source_url": "https://www.urbangrub.net/",
+    "id": "urban-grub-12-south",
+    "lat": 36.1250177,
+    "lon": -86.7891554,
+    "street_point": {
+      "lat": 36.1250177,
+      "lon": -86.7891554
+    },
+    "neighborhood_id": "12south",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "The Butter Milk Ranch \u2014 12 South",
+    "category": "food",
+    "latitude": "36.1257693",
+    "longitude": "-86.7894924",
+    "why_go": "Visit for elaborate pastries, breakfast cubes, and brunch.",
+    "story": "The Butter Milk Ranch combines a pastry counter with a full-service dining room. Chef Alyssa Gangeri's menu connects Southern breakfast favorites with more unexpected dishes.",
+    "best_time_tip": "Visit Tuesday\u2013Sunday; the pastry counter stays open later than the dining room.",
+    "official_website_url": "https://buttermilkranch.com/visit",
+    "story_source_url": "https://buttermilkranch.com/visit",
+    "id": "the-butter-milk-ranch-12-south",
+    "lat": 36.1257693,
+    "lon": -86.7894924,
+    "street_point": {
+      "lat": 36.1257693,
+      "lon": -86.7894924
+    },
+    "neighborhood_id": "12south",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "Make Music Not War Mural \u2014 12 South",
+    "category": "landmark",
+    "latitude": "36.1212401",
+    "longitude": "-86.79015",
+    "why_go": "Visit a music-themed mural beside Epice.",
+    "story": "Relax Max Apparel created this mural on the side of Epice. Its musical message connects an ordinary restaurant wall with Nashville's creative identity.",
+    "best_time_tip": "Visit in daylight at 2902 12th Avenue South and leave restaurant access clear.",
+    "official_website_url": "https://www.visitmusiccity.com/nashville-businesses/make-music-not-war-mural/7153",
+    "story_source_url": "https://www.visitmusiccity.com/nashville-businesses/make-music-not-war-mural/7153",
+    "id": "make-music-not-war-mural-12-south",
+    "lat": 36.1212401,
+    "lon": -86.79015,
+    "street_point": {
+      "lat": 36.1212401,
+      "lon": -86.79015
+    },
+    "neighborhood_id": "12south",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Official Visit Music City mural address geocoded by MapKit; approximate building point, not surveyed wall/entrance."
+  },
+  {
+    "name": "Flowers Mural \u2014 12 South",
+    "category": "landmark",
+    "latitude": "36.1214355",
+    "longitude": "-86.790109",
+    "why_go": "Visit a bright floral wall for a colorful photo.",
+    "story": "Hundreds of painted flowers cover the side of a building on 12th Avenue South. The floral wall has become one of the neighborhood's recognizable photography stops.",
+    "best_time_tip": "Visit in daylight at 2900 12th Avenue South; nearby murals make an easy combined stop.",
+    "official_website_url": "https://www.visitmusiccity.com/nashville-businesses/flowers-mural/7152",
+    "story_source_url": "https://www.visitmusiccity.com/nashville-businesses/flowers-mural/7152",
+    "id": "flowers-mural-12-south",
+    "lat": 36.1214355,
+    "lon": -86.790109,
+    "street_point": {
+      "lat": 36.1214355,
+      "lon": -86.790109
+    },
+    "neighborhood_id": "12south",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "Odie's \u2014 Midtown",
+    "category": "nightlife",
+    "latitude": "36.149477",
+    "longitude": "-86.7972576",
+    "why_go": "Visit Old Dominion's neighborhood venue for live music and a lively evening.",
+    "story": "Old Dominion partnered with hospitality group Good Time Design to create Odie's in Midtown. Its Live Room gives singers and songwriters a stage alongside the venue's other entertainment spaces.",
+    "best_time_tip": "Visit before 3pm with children accompanied by a legal guardian; entry becomes 21+ after 3pm.",
+    "official_website_url": "https://www.odiesbar.com/",
+    "story_source_url": "https://www.odiesbar.com/",
+    "id": "odie-s-midtown",
+    "lat": 36.149477,
+    "lon": -86.7972576,
+    "street_point": {
+      "lat": 36.149477,
+      "lon": -86.7972576
+    },
+    "neighborhood_id": "midtown",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "Losers Midtown / Riley Green's Duck Blind \u2014 Midtown",
+    "category": "nightlife",
+    "latitude": "36.1496802",
+    "longitude": "-86.7967923",
+    "why_go": "Visit a Division Street music venue with Riley Green's Duck Blind inside.",
+    "story": "Losers Midtown combines its established neighborhood bar with Riley Green's Duck Blind inside the venue. Its current program keeps live music at the center of the experience.",
+    "best_time_tip": "Entry is 21+ after 3pm Monday\u2013Friday and throughout Saturday\u2013Sunday; check the daily music lineup.",
+    "official_website_url": "https://www.losersmidtown.com/",
+    "story_source_url": "https://www.losersmidtown.com/",
+    "id": "losers-midtown-riley-green-s-duck-blind-midtown",
+    "lat": 36.1496802,
+    "lon": -86.7967923,
+    "street_point": {
+      "lat": 36.1496802,
+      "lon": -86.7967923
+    },
+    "neighborhood_id": "midtown",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "The Red Door Saloon \u2014 Midtown",
+    "category": "nightlife",
+    "latitude": "36.150596",
+    "longitude": "-86.7957869",
+    "why_go": "Visit a neighborhood bar with several rooms and outdoor seating.",
+    "story": "Red Door's Midtown location occupies 1816 Division Street. Its multiple rooms and patios give the venue a different layout from a single crowded music hall.",
+    "best_time_tip": "Visit earlier for a quieter look; confirm age requirements before an in-person visit.",
+    "official_website_url": "https://www.thereddoorsaloon.com/",
+    "story_source_url": "https://www.corner.inc/place/pSto279weCkF",
+    "id": "the-red-door-saloon-midtown",
+    "lat": 36.150596,
+    "lon": -86.7957869,
+    "street_point": {
+      "lat": 36.150596,
+      "lon": -86.7957869
+    },
+    "neighborhood_id": "midtown",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "Tin Roof Demonbreun \u2014 Demonbreun Hill",
+    "category": "music",
+    "latitude": "36.1531262",
+    "longitude": "-86.7899943",
+    "why_go": "Visit the original Tin Roof for live bands and an energetic music room.",
+    "story": "Tin Roof's Demonbreun location has hosted weekend music nights since 2002. Its current setup combines bands in the live room with DJs in the Green Room.",
+    "best_time_tip": "Check the official calendar and event age requirements; use 1516 Demonbreun Street.",
+    "official_website_url": "https://theoriginaltinroof.com/",
+    "story_source_url": "https://theoriginaltinroof.com/",
+    "id": "tin-roof-demonbreun-demonbreun-hill",
+    "lat": 36.1531262,
+    "lon": -86.7899943,
+    "street_point": {
+      "lat": 36.1531262,
+      "lon": -86.7899943
+    },
+    "neighborhood_id": "midtown",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "Analog at Hutton Hotel \u2014 Midtown / West End",
+    "category": "music",
+    "latitude": "36.1530416",
+    "longitude": "-86.7970683",
+    "why_go": "Visit an intimate listening room inside Hutton Hotel.",
+    "story": "Analog places a live-music venue inside Hutton Hotel on West End Avenue. Its living-room arrangement and professional sound system are designed to bring performers and listeners close together.",
+    "best_time_tip": "Choose a scheduled performance and check its ticket and age requirements.",
+    "official_website_url": "https://www.analognashville.com/",
+    "story_source_url": "https://www.analognashville.com/",
+    "id": "analog-at-hutton-hotel-midtown-west-end",
+    "lat": 36.1530416,
+    "lon": -86.7970683,
+    "street_point": {
+      "lat": 36.1530416,
+      "lon": -86.7970683
+    },
+    "neighborhood_id": "midtown",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "EXIT/IN \u2014 Elliston Place / West End",
+    "category": "music",
+    "latitude": "36.1513774",
+    "longitude": "-86.8043843",
+    "why_go": "Visit a long-running Nashville room for a ticketed live show.",
+    "story": "EXIT/IN began in 1971 on Elliston Place. The venue continues that musical history with an active calendar on Nashville's Rock Block.",
+    "best_time_tip": "Book ahead for the specific show; admission rules and door times vary by event.",
+    "official_website_url": "https://exitin.com/",
+    "story_source_url": "https://exitin.com/",
+    "id": "exit-in-elliston-place-west-end",
+    "lat": 36.1513774,
+    "lon": -86.8043843,
+    "street_point": {
+      "lat": 36.1513774,
+      "lon": -86.8043843
+    },
+    "neighborhood_id": "midtown",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "The Local \u2014 West End",
+    "category": "music",
+    "latitude": "36.145856",
+    "longitude": "-86.8127357",
+    "why_go": "Visit for original live music near Centennial Park.",
+    "story": "The Local centers its program on original live music in a neighborhood bar setting. Its kitchen also works with Tennessee farmers and food suppliers for ingredients.",
+    "best_time_tip": "Check the performance calendar; the venue opens later Monday\u2013Thursday than Friday\u2013Sunday.",
+    "official_website_url": "https://localnash.com/",
+    "story_source_url": "https://localnash.com/",
+    "id": "the-local-west-end",
+    "lat": 36.145856,
+    "lon": -86.8127357,
+    "street_point": {
+      "lat": 36.145856,
+      "lon": -86.8127357
+    },
+    "neighborhood_id": "midtown",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "Springwater Supper Club & Lounge \u2014 West End",
+    "category": "music",
+    "latitude": "36.1464257",
+    "longitude": "-86.8123587",
+    "why_go": "Visit a small live-music room beside Centennial Park.",
+    "story": "Springwater combines a neighborhood bar with a stage for established and emerging performers. The venue has also served as a location for music-video shoots.",
+    "best_time_tip": "In-person entry is 21+ and cash only; the current FAQ lists Wednesday\u2013Sunday opening.",
+    "official_website_url": "https://www.thespringwater.com/",
+    "story_source_url": "https://www.thespringwater.com/faq",
+    "id": "springwater-supper-club-lounge-west-end",
+    "lat": 36.1464257,
+    "lon": -86.8123587,
+    "street_point": {
+      "lat": 36.1464257,
+      "lon": -86.8123587
+    },
+    "neighborhood_id": "midtown",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "Historic RCA Studio B \u2014 Music Row",
+    "category": "museum",
+    "latitude": "36.149921",
+    "longitude": "-86.7928039",
+    "why_go": "Visit the recording room behind many country and pop classics.",
+    "story": "Built in 1957, RCA Studio B helped establish the Nashville Sound. Elvis Presley, Dolly Parton, and other major artists recorded important songs inside this Music Row studio.",
+    "best_time_tip": "Arrange an interior visit through the Country Music Hall of Fame and Museum; follow its booking instructions.",
+    "official_website_url": "https://countrymusichalloffame.org/experiences/studio-b",
+    "story_source_url": "https://countrymusichalloffame.org/experiences/studio-b/about-studio-b",
+    "id": "historic-rca-studio-b-music-row",
+    "lat": 36.149921,
+    "lon": -86.7928039,
+    "street_point": {
+      "lat": 36.149921,
+      "lon": -86.7928039
+    },
+    "neighborhood_id": "midtown",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "Owen Bradley Park \u2014 Music Row",
+    "category": "park",
+    "latitude": "36.1516703",
+    "longitude": "-86.7919515",
+    "why_go": "Visit the piano-side statue honoring a major Nashville producer.",
+    "story": "Owen Bradley helped shape the Nashville Sound during the 1950s and 1960s. Gary Ernest Smith's statue honoring him was dedicated in October 1999 at the entrance to the park.",
+    "best_time_tip": "Visit in daylight and combine it with the nearby Music Row roundabout.",
+    "official_website_url": "https://www.nashville.gov/departments/parks/parks",
+    "story_source_url": "https://www.visitmusiccity.com/nashville-trip-ideas/7-sculptures-statues-to-see-music-city",
+    "id": "owen-bradley-park-music-row",
+    "lat": 36.1516703,
+    "lon": -86.7919515,
+    "street_point": {
+      "lat": 36.1516703,
+      "lon": -86.7919515
+    },
+    "neighborhood_id": "midtown",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "Musica at Buddy Killen Circle \u2014 Music Row",
+    "category": "landmark",
+    "latitude": "36.1521",
+    "longitude": "-86.79165",
+    "why_go": "Visit the roundabout's large sculpture celebrating music through movement.",
+    "story": "Alan LeQuire created Musica in 2003 at the gateway to Music Row. Its nine dancing figures represent the breadth of Nashville's musical and artistic traditions.",
+    "best_time_tip": "View from the surrounding sidewalk; the sculpture stands in an active traffic circle.",
+    "official_website_url": "https://fountainsofmusica.org/about",
+    "story_source_url": "https://fountainsofmusica.org/about",
+    "id": "musica-at-buddy-killen-circle-music-row",
+    "lat": 36.1521,
+    "lon": -86.79165,
+    "street_point": {
+      "lat": 36.1521,
+      "lon": -86.79165
+    },
+    "neighborhood_id": "midtown",
+    "location_source": "reference/content/landmarks.csv",
+    "coordinate_note": "Supplied landmarks.csv coordinate; official sculpture site confirms Music Row roundabout. MapKit name search rejected unrelated results."
+  },
+  {
+    "name": "Centennial Park \u2014 West End",
+    "category": "park",
+    "latitude": "36.1484504",
+    "longitude": "-86.8124587",
+    "why_go": "Visit gardens, lakeside paths, and open lawns around the Parthenon.",
+    "story": "These grounds hosted the Tennessee Centennial Exposition in 1897. The public park opened in 1903 and later expanded to its present 132 acres.",
+    "best_time_tip": "Visit in daylight for the gardens and Lake Watauga; check the calendar for outdoor events.",
+    "official_website_url": "https://www.nashville.gov/departments/parks/parks/centennial-park",
+    "story_source_url": "https://www.nashville.gov/departments/parks/parks/centennial-park",
+    "id": "centennial-park-west-end",
+    "lat": 36.1484504,
+    "lon": -86.8124587,
+    "street_point": {
+      "lat": 36.1484504,
+      "lon": -86.8124587
+    },
+    "neighborhood_id": "midtown",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "The Parthenon \u2014 West End",
+    "category": "museum",
+    "latitude": "36.149662",
+    "longitude": "-86.8134391",
+    "why_go": "Visit a full-scale Greek landmark with art galleries inside.",
+    "story": "Nashville built its first Parthenon for the Tennessee Centennial Exposition in 1897. The temporary structure was later rebuilt in lasting materials, with the completed interior opening as a city museum in 1931.",
+    "best_time_tip": "Enter the museum on the east side toward Lake Watauga; check current hours and special closures.",
+    "official_website_url": "https://www.nashvilleparthenon.com/hours-admission",
+    "story_source_url": "https://www.nashvilleparthenon.com/history",
+    "id": "the-parthenon-west-end",
+    "lat": 36.149662,
+    "lon": -86.8134391,
+    "street_point": {
+      "lat": 36.149662,
+      "lon": -86.8134391
+    },
+    "neighborhood_id": "midtown",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "Five Points Pizza \u2014 East Nashville",
+    "category": "food",
+    "latitude": "36.1771483",
+    "longitude": "-86.7505031",
+    "why_go": "Enjoy New York-style slices and garlic knots at the heart of Five Points.",
+    "story": "The kitchen makes its dough from scratch daily and ages it in-house. Each pizza then bakes on thick bricks in a traditional gas-fired deck oven.",
+    "best_time_tip": "Visit for lunch at the Woodland Street location; check current hours before visiting.",
+    "official_website_url": "https://fivepointspizza.com/east-nashville/",
+    "story_source_url": "https://fivepointspizza.com/east-nashville/",
+    "id": "five-points-pizza-east-nashville",
+    "lat": 36.1771483,
+    "lon": -86.7505031,
+    "street_point": {
+      "lat": 36.1771483,
+      "lon": -86.7505031
+    },
+    "neighborhood_id": "fivepoints",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "The 5 Spot",
+    "category": "music",
+    "latitude": "36.1784943",
+    "longitude": "-86.7503292",
+    "why_go": "Hear local musicians in an intimate neighborhood music room.",
+    "story": "The venue's early shows give musicians a stage before the late-night program begins. Its October 2026 calendar pairs Monday blues from The Tiger Beats with the recurring Motown Monday dance party.",
+    "best_time_tip": "Check the calendar for early sets; admission is 21+.",
+    "official_website_url": "https://the5spotnashville.com/",
+    "story_source_url": "https://the5spotnashville.com/info-for-bands/",
+    "id": "the-5-spot",
+    "lat": 36.1784943,
+    "lon": -86.7503292,
+    "street_point": {
+      "lat": 36.1784943,
+      "lon": -86.7503292
+    },
+    "neighborhood_id": "fivepoints",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "The Basement East",
+    "category": "music",
+    "latitude": "36.1756866",
+    "longitude": "-86.7555892",
+    "why_go": "Catch established and emerging performers in a dedicated concert venue.",
+    "story": "The Basement East opened in 2015 as a larger sibling to the original Basement. After the 2020 tornado, its owners rebuilt the venue and brought concerts back.",
+    "best_time_tip": "Book ahead and check each event's age policy; some events welcome all ages.",
+    "official_website_url": "https://www.thebasementnashville.com/basement-east/",
+    "story_source_url": "https://www.thebasementnashville.com/basement-east/about-the-venue/",
+    "id": "the-basement-east",
+    "lat": 36.1756866,
+    "lon": -86.7555892,
+    "street_point": {
+      "lat": 36.1756866,
+      "lon": -86.7555892
+    },
+    "neighborhood_id": "fivepoints",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "Drifters Tennessee BBQ Joint",
+    "category": "music",
+    "latitude": "36.1767432",
+    "longitude": "-86.7508364",
+    "why_go": "Combine barbecue with live music and an outdoor patio.",
+    "story": "Drifters took a direct hit during the March 2020 tornado, and neighbors immediately came to help. The restaurant subsequently returned with a rebuilt space and its neighborhood gathering spirit intact.",
+    "best_time_tip": "Check the live-music calendar before visiting; look for the tucked-away location at 1008-B Woodland.",
+    "official_website_url": "https://www.driftersnashville.com/",
+    "story_source_url": "https://www.driftersnashville.com/about",
+    "id": "drifters-tennessee-bbq-joint",
+    "lat": 36.1767432,
+    "lon": -86.7508364,
+    "street_point": {
+      "lat": 36.1767432,
+      "lon": -86.7508364
+    },
+    "neighborhood_id": "fivepoints",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "Bongo East / Game Point",
+    "category": "food",
+    "latitude": "36.177016",
+    "longitude": "-86.7497259",
+    "why_go": "Settle in with coffee and a board game.",
+    "story": "Bongo moved its roasting operation to Five Points in 2000 and added a caf\u00e9 almost as an afterthought. The roasting operation later moved out, leaving room for the coffeehouse and board-game gathering place.",
+    "best_time_tip": "Visit in the evening for help from game coaches; the game library is free for customers.",
+    "official_website_url": "https://www.bongojava.com/pages/bongo-east",
+    "story_source_url": "https://www.bongojava.com/pages/bongo-east",
+    "id": "bongo-east-game-point",
+    "lat": 36.177016,
+    "lon": -86.7497259,
+    "street_point": {
+      "lat": 36.177016,
+      "lon": -86.7497259
+    },
+    "neighborhood_id": "fivepoints",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "Fanny's House of Music",
+    "category": "shop",
+    "latitude": "36.1764032",
+    "longitude": "-86.7498351",
+    "why_go": "Browse instruments in a welcoming neighborhood music shop.",
+    "story": "College friends Leigh Maples and Pamela Cole opened Fanny's in 2009. They wanted a friendly music store where everyone could build happy memories of making music.",
+    "best_time_tip": "Visit Monday\u2013Saturday 11am\u20136pm or Sunday noon\u20135pm.",
+    "official_website_url": "https://www.fannyshouseofmusic.com/",
+    "story_source_url": "https://musicachievementcouncil.org/library/oral-history/leigh-maples",
+    "id": "fanny-s-house-of-music",
+    "lat": 36.1764032,
+    "lon": -86.7498351,
+    "street_point": {
+      "lat": 36.1764032,
+      "lon": -86.7498351
+    },
+    "neighborhood_id": "fivepoints",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "The Treehouse",
+    "category": "food",
+    "latitude": "36.1778604",
+    "longitude": "-86.7504475",
+    "why_go": "Enjoy seasonal cooking in a former home with a leafy outdoor setting.",
+    "story": "The Treehouse occupies a former family home just off the Five Points intersection. Its kitchen works with local producers, continuing the neighborhood connection through the ingredients on its menu.",
+    "best_time_tip": "Reserve for dinner or weekend brunch; find the entrance on Clearview Avenue.",
+    "official_website_url": "https://www.treehousenashville.com/",
+    "story_source_url": "https://www.treehousenashville.com/",
+    "id": "the-treehouse",
+    "lat": 36.1778604,
+    "lon": -86.7504475,
+    "street_point": {
+      "lat": 36.1778604,
+      "lon": -86.7504475
+    },
+    "neighborhood_id": "fivepoints",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "Duke's",
+    "category": "nightlife",
+    "latitude": "36.178047",
+    "longitude": "-86.7512198",
+    "why_go": "Discover a neighborhood bar with a substantial deli-sandwich menu.",
+    "story": "Duke's borrowed the New York bodega sandwich tradition for its Main Street bar. Its sandwiches use bread baked daily by Nashville's Bobby John Henry Bakery.",
+    "best_time_tip": "Visit for an evening sandwich; check admission rules before bringing children.",
+    "official_website_url": "https://www.dukesbarnashville.com/",
+    "story_source_url": "https://www.dukesbarnashville.com/",
+    "id": "duke-s",
+    "lat": 36.178047,
+    "lon": -86.7512198,
+    "street_point": {
+      "lat": 36.178047,
+      "lon": -86.7512198
+    },
+    "neighborhood_id": "fivepoints",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "Edley's Bar-B-Que \u2014 Five Points",
+    "category": "food",
+    "latitude": "36.1768709",
+    "longitude": "-86.7511783",
+    "why_go": "Try smoked barbecue and Southern sides near the central intersection.",
+    "story": "Edley's moved its East Nashville restaurant from Main Street to Woodland Street in March 2023. The new Five Points location added a larger dining room, an adjoining patio and a dedicated takeout area.",
+    "best_time_tip": "Visit for lunch; use the current 1004 Woodland Street location.",
+    "official_website_url": "https://www.edleysbbq.com/locations/east-nashville",
+    "story_source_url": "https://davidsoncountysource.com/edley-s-opens-new-location-in-east-nashville/",
+    "id": "edley-s-bar-b-que-five-points",
+    "lat": 36.1768709,
+    "lon": -86.7511783,
+    "street_point": {
+      "lat": 36.1768709,
+      "lon": -86.7511783
+    },
+    "neighborhood_id": "fivepoints",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Official current 1004 Woodland Street address geocoded by MapKit; broad name search returned wrong branches and was rejected."
+  },
+  {
+    "name": "The Turnip Truck \u2014 East Nashville",
+    "category": "shop",
+    "latitude": "36.1738274",
+    "longitude": "-86.7600286",
+    "why_go": "Browse local foods or pick up picnic supplies near East Park.",
+    "story": "The Turnip Truck began as a neighborhood natural-food market in Five Points in 2001. In 2015 it moved three blocks toward downtown, expanding its deli and prepared-food offerings.",
+    "best_time_tip": "Open daily 7am\u20139pm; combine a daytime visit with nearby East Park.",
+    "official_website_url": "https://www.theturniptruck.com/stores/woodland-street/",
+    "story_source_url": "https://ediblenashville.ediblecommunities.com/wp-content/uploads/2026/01/Coffee-map_linked.pdf",
+    "id": "the-turnip-truck-east-nashville",
+    "lat": 36.1738274,
+    "lon": -86.7600286,
+    "street_point": {
+      "lat": 36.1738274,
+      "lon": -86.7600286
+    },
+    "neighborhood_id": "fivepoints",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "Gift Horse",
+    "category": "shop",
+    "latitude": "36.1740756",
+    "longitude": "-86.750895",
+    "why_go": "Find illustrated cards, art prints, children's books and unusual gifts.",
+    "story": "Founder Jessica Maloan Vastagh sold her own prints and greeting cards at regional craft fairs before opening a shop. Gift Horse opened in August 2016 to give independent artists and makers a permanent neighborhood showcase.",
+    "best_time_tip": "Visit Wednesday\u2013Saturday after 10:30am or Sunday after noon; find Suite 301 at the Shoppes on Fatherland.",
+    "official_website_url": "https://gifthorsenashville.com/",
+    "story_source_url": "https://gifthorsenashville.com/pages/about-us",
+    "id": "gift-horse",
+    "lat": 36.1740756,
+    "lon": -86.750895,
+    "street_point": {
+      "lat": 36.1740756,
+      "lon": -86.750895
+    },
+    "neighborhood_id": "fivepoints",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "Bad Idea",
+    "category": "food",
+    "latitude": "36.1759188",
+    "longitude": "-86.7503904",
+    "why_go": "See a former church transformed into a distinctive restaurant.",
+    "story": "Bad Idea opened in a former church sanctuary in fall 2023. The building now houses a restaurant and wine bar with a seasonal menu.",
+    "best_time_tip": "Reserve for dinner; children are welcome, but there are no high chairs or children's menu.",
+    "official_website_url": "https://www.badideanashville.com/",
+    "story_source_url": "https://www.axios.com/local/nashville/2024/02/29/east-nashville-restaurant-bad-idea-soup-menu",
+    "id": "bad-idea",
+    "lat": 36.1759188,
+    "lon": -86.7503904,
+    "street_point": {
+      "lat": 36.1759188,
+      "lon": -86.7503904
+    },
+    "neighborhood_id": "fivepoints",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "Woodland Wine Merchant \u2014 East Nashville",
+    "category": "shop",
+    "latitude": "36.1772065",
+    "longitude": "-86.751169",
+    "why_go": "Explore a small neighborhood shop focused on thoughtfully selected wines.",
+    "story": "Woodland Wine Merchant opened its Woodland Street doors in 2007. Its intentionally compact selection highlights changing wines from sustainable producers around the world.",
+    "best_time_tip": "Visit Monday\u2013Saturday 10am\u20138pm or Sunday noon\u20136pm; ask staff about unfamiliar producers.",
+    "official_website_url": "https://www.woodlandwinemerchant.com/contact",
+    "story_source_url": "https://www.woodlandwinemerchant.com/our-story",
+    "id": "woodland-wine-merchant-east-nashville",
+    "lat": 36.1772065,
+    "lon": -86.751169,
+    "street_point": {
+      "lat": 36.1772065,
+      "lon": -86.751169
+    },
+    "neighborhood_id": "fivepoints",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "name": "East Park",
+    "category": "park",
+    "latitude": "36.17288",
+    "longitude": "-86.76043",
+    "why_go": "Take a green-space break a few blocks west of Five Points.",
+    "story": "East Park becomes a neighborhood gathering ground for the annual Music City Hot Chicken Festival. The festival celebrated its twentieth edition here on July 4, 2026, with food, local music and a fire-truck parade.",
+    "best_time_tip": "Visit in daylight; check the event calendar if you prefer a quieter park visit.",
+    "official_website_url": "https://www.nashville.gov/departments/parks/parks",
+    "story_source_url": "https://www.hot-chicken.com/",
+    "id": "east-park",
+    "lat": 36.17288,
+    "lon": -86.76043,
+    "street_point": {
+      "lat": 36.17288,
+      "lon": -86.76043
+    },
+    "neighborhood_id": "fivepoints",
+    "location_source": "reference/content/landmarks.csv",
+    "coordinate_note": "Supplied landmarks.csv park coordinate; Metro Parks confirms 700 Woodland Street. MapKit name search returned unrelated East Hill and was rejected."
+  },
+  {
+    "name": "I Believe in Nashville mural \u2014 The Basement East",
+    "category": "landmark",
+    "latitude": "36.1756285",
+    "longitude": "-86.7556474",
+    "why_go": "See a neighborhood mural associated with Nashville's resilience.",
+    "story": "Adrien Saporiti created the recognizable I Believe in Nashville design. The mural at The Basement East remained standing when the March 2020 tornado severely damaged the venue.",
+    "best_time_tip": "Visit in daylight and keep venue entrances clear; this is the Woodland Street mural location.",
+    "official_website_url": "https://store.ibelieveinnashville.com/pages/our-story",
+    "story_source_url": "https://www.newschannel5.com/news/some-nashville-treasures-spared-from-deadly-tornado",
+    "id": "i-believe-in-nashville-mural-the-basement-east",
+    "lat": 36.1756285,
+    "lon": -86.7556474,
+    "street_point": {
+      "lat": 36.1756285,
+      "lon": -86.7556474
+    },
+    "neighborhood_id": "fivepoints",
+    "location_source": "Apple MapKit local search",
+    "coordinate_note": "Apple MapKit place result, cross-checked against supplied official location."
+  },
+  {
+    "id": "icon_in_the_gulch",
+    "name": "ICON in the Gulch",
+    "category": "architecture",
+    "latitude": "36.151585",
+    "longitude": "-86.783813",
+    "lat": 36.151585,
+    "lon": -86.783813,
+    "street_point": {
+      "lat": 36.151572,
+      "lon": -86.784305
+    },
+    "neighborhood_id": "midtown",
+    "why_go": "Visit an early landmark of The Gulch's redevelopment and see its tower above the neighborhood storefronts.",
+    "story": "Completed in 2008 at 600 12th Avenue South in Nashville, ICON was developed by Bristol Development Group with MarketStreet Enterprises and combines a 22-story tower with a lower residential section. Its glass-and-brick architecture and 26,000 square feet of street-level retail helped establish The Gulch's transformation from an industrial area into a residential neighborhood.",
+    "best_time_tip": "Visit the exterior through Apple Look Around on 12th Avenue South; the condominiums are privately owned.",
+    "official_website_url": "https://iconinthegulch.com/",
+    "story_source_url": "[Developer and completion](https://www.bristoldevelopment.com/community/icon-in-the-gulch/); [Architecture and retail](https://nelsonworldwide.com/project/icon-in-the-gulch/); [Development and significance](https://www.multifamilyexecutive.com/design-development/mfe-awards/2009-mfe-merit-awards_o); [Development partnership](https://www.bizjournals.com/nashville/stories/2009/06/08/story1.html); [Apple Maps place pin](https://maps.apple.com/place?place-id=I48BA44C5D9D7BA45); [Verified Look Around position](https://maps.apple.com/look-around?center=36.151572%2C-86.784305&_mvs=CiQJUt2RuGYTQkARAjY8DDKyVcAZAABNtuNcXUAhEE6GVIW%2BV0A%3D)"
+  }
+]
