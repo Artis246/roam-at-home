@@ -1,0 +1,30 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "BT7ATST7QC.com.artjoyce.roamathome",
+        "components": [
+          {
+            "/": "/",
+            "?": {
+              "trip": "*"
+            },
+            "comment": "Open a shared trip"
+          },
+          {
+            "/": "/",
+            "?": {
+              "place": "*"
+            },
+            "comment": "Visit a shared place"
+          },
+          {
+            "/": "/",
+            "comment": "Open the home screen"
+          }
+        ]
+      }
+    ]
+  }
+}
